@@ -1,0 +1,188 @@
+🗂️ Database Schema:
+Table: tshirt_info
+Columns:
+- id (int)
+- product_name (varchar)
+- brand (verchar)
+- category (verchar)
+- price (decimal)
+- quantity_in_stock (int)
+- quantity_sold (int)
+- discount_percentage (decimal)
+- location (varchar)
+
+📝 SQL Query Guide
+Use only the above columns. All queries must target the `tshirt_info` table.
+===
+QUESTION: What is the average price of all T-shirts?
+SQL:
+SELECT AVG(price) AS average_price FROM tshirt_info;
+===
+
+===
+QUESTION: List all products that cost more than 50.
+SQL:
+SELECT id, product_name 
+FROM tshirt_info 
+WHERE price > 50;
+===
+
+===
+QUESTION: What is the sum  price of all products?
+SQL:
+SELECT SUM(price) AS total_price FROM tshirt_info;
+===
+
+===
+QUESTION: total number of product
+SQL:
+SQL:
+SELECT SUM(quantity_in_stock) AS total_products FROM tshirt_info;
+===
+
+===
+QUESTION: high no of product is available
+SQL:
+SELECT * 
+FROM tshirt_info 
+WHERE quantity_in_stock > 100;
+
+===
+
+===
+QUESTION: all location of product 
+SQL:
+SELECT DISTINCT location FROM tshirt_info;
+===
+
+===
+QUESTION: Show all T-shirt records.
+SQL:
+SELECT * FROM tshirt_info;
+===
+
+===
+QUESTION: List all product names with their prices.
+SQL:
+SELECT product_name, price FROM tshirt_info;
+===
+
+===
+QUESTION: Show all columns for all products.
+SQL:
+SELECT * FROM tshirt_info;
+===
+
+===
+QUESTION: What is the average price of all T-shirts?
+SQL:
+SELECT AVG(price) AS average_price FROM tshirt_info;
+===
+
+===
+QUESTION: List all products that cost more than 50.
+SQL:
+SELECT id, product_name FROM tshirt_info WHERE price > 50;
+===
+
+===
+QUESTION: What is the sum price of all products?
+SQL:
+SELECT SUM(price) AS total_price FROM tshirt_info;
+===
+
+===
+QUESTION: What is the total number of T-shirts in stock?
+SQL:
+SELECT SUM(quantity_in_stock) AS total_stock FROM tshirt_info;
+===
+
+===
+QUESTION: Which product has the highest stock?
+SQL:
+SELECT product_name, quantity_in_stock FROM tshirt_info ORDER BY quantity_in_stock DESC LIMIT 1;
+===
+
+===
+QUESTION: Which products have stock greater than 100?
+SQL:
+SELECT * FROM tshirt_info WHERE quantity_in_stock > 100;
+===
+
+===
+QUESTION: Show all product locations.
+SQL:
+SELECT DISTINCT location FROM tshirt_info;
+===
+
+===
+QUESTION: What are the total quantity sold and revenue per product?
+SQL:
+SELECT product_name, quantity_sold, price * quantity_sold AS revenue FROM tshirt_info;
+===
+
+===
+QUESTION: List product name, price, and discount percentage.
+SQL:
+SELECT product_name, price, discount_percentage FROM tshirt_info;
+===
+
+===
+QUESTION: Which products have a discount of more than 20%?
+SQL:
+SELECT product_name, discount_percentage FROM tshirt_info WHERE discount_percentage > 20;
+===
+
+===
+QUESTION: Show all products with their brand and category.
+SQL:
+SELECT product_name, brand, category FROM tshirt_info;
+===
+
+===
+QUESTION: How many different brands are available?
+SQL:
+SELECT COUNT(DISTINCT brand) AS brand_count FROM tshirt_info;
+===
+
+===
+QUESTION: List products sorted by price in descending order.
+SQL:
+SELECT product_name, price FROM tshirt_info ORDER BY price DESC;
+===
+
+===
+QUESTION: What is the minimum and maximum price of products?
+SQL:
+SELECT MIN(price) AS min_price, MAX(price) AS max_price FROM tshirt_info;
+===
+
+===
+QUESTION: Show total quantity sold per brand.
+SQL:
+SELECT brand, SUM(quantity_sold) AS total_sold FROM tshirt_info GROUP BY brand;
+===
+
+===
+QUESTION: Show average discount per category.
+SQL:
+SELECT category, AVG(discount_percentage) AS avg_discount FROM tshirt_info GROUP BY category;
+===
+
+===
+QUESTION: Which products are out of stock?
+SQL:
+SELECT product_name FROM tshirt_info WHERE quantity_in_stock = 0;
+===
+
+===
+QUESTION:  Which products have price greater than 100?
+SQL:
+SELECT * FROM tshirt_info WHERE price > 100;
+===
+
+
+
+
+
+

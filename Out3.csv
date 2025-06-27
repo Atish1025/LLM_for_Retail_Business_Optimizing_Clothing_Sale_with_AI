@@ -1,0 +1,1001 @@
+id,product_name,brand,category,price,quantity_in_stock,quantity_sold,discount_percentage,location
+1,"T-Shirt 8589",Puma,Casual,248.71,471,155,38.60,Delhi
+2,"T-Shirt 2002",Nike,Outdoor,999.58,217,51,27.66,Delhi
+3,"T-Shirt 6076",Adidas,Formal,996.62,141,125,12.77,Mumbai
+4,"T-Shirt 3191",Puma,Outdoor,352.15,331,219,33.97,Delhi
+5,"T-Shirt 9579",Nike,Sportswear,880.75,500,133,11.34,Chennai
+6,"T-Shirt 3107",Nike,Outdoor,869.84,300,144,30.54,Hyderabad
+7,"T-Shirt 2169",Adidas,Formal,477.87,437,97,49.89,Mumbai
+8,"T-Shirt 970",Puma,Outdoor,208.76,240,107,17.89,Chennai
+9,"T-Shirt 4846",Adidas,Outdoor,261.40,212,265,7.34,Mumbai
+10,"T-Shirt 9777",Reebok,Casual,494.71,39,81,6.72,Pune
+11,"T-Shirt 8694",Reebok,Casual,356.78,29,207,14.21,Bangalore
+12,"T-Shirt 8919",Puma,Casual,768.56,193,237,40.11,Hyderabad
+13,"T-Shirt 7765","Under Armour",Formal,804.68,88,183,26.30,Chennai
+14,"T-Shirt 4125",Reebok,Sportswear,608.31,123,208,37.10,Hyderabad
+15,"T-Shirt 8878",Puma,Sportswear,391.09,314,125,10.65,Chennai
+16,"T-Shirt 3992",Puma,Formal,690.63,35,151,16.21,Mumbai
+17,"T-Shirt 5337",Adidas,Sportswear,211.89,208,7,43.91,Delhi
+18,"T-Shirt 9557","Under Armour",Casual,843.30,128,258,27.19,Mumbai
+19,"T-Shirt 391",Reebok,Outdoor,882.48,364,23,10.48,Chennai
+20,"T-Shirt 4336",Reebok,Casual,655.62,397,76,44.84,Chennai
+21,"T-Shirt 8998",Adidas,Sportswear,275.62,200,213,17.88,Hyderabad
+22,"T-Shirt 1992",Nike,Formal,782.31,473,163,44.04,Chennai
+23,"T-Shirt 2229",Reebok,Casual,319.75,417,212,2.18,Mumbai
+24,"T-Shirt 3415",Puma,Sportswear,364.49,373,32,15.38,Delhi
+25,"T-Shirt 1322",Nike,Formal,702.22,458,206,34.57,Bangalore
+26,"T-Shirt 9065",Adidas,Sportswear,981.75,440,140,35.03,Mumbai
+27,"T-Shirt 3933",Reebok,Sportswear,860.88,316,202,24.28,Bangalore
+28,"T-Shirt 5483",Puma,Sportswear,697.14,484,290,47.38,Chennai
+29,"T-Shirt 3017",Nike,Sportswear,958.39,67,245,34.96,Mumbai
+30,"T-Shirt 893",Adidas,Casual,210.04,430,76,34.68,Chennai
+31,"T-Shirt 4466",Nike,Sportswear,888.64,290,93,41.06,Delhi
+32,"T-Shirt 3922",Puma,Sportswear,971.19,319,86,26.67,Chennai
+33,"T-Shirt 4082",Reebok,Outdoor,895.69,242,240,28.06,Bangalore
+34,"T-Shirt 3245",Puma,Sportswear,453.19,123,81,31.29,Delhi
+35,"T-Shirt 6868",Puma,Casual,678.14,371,271,15.52,Pune
+36,"T-Shirt 2367",Reebok,Formal,572.47,112,214,45.51,Bangalore
+37,"T-Shirt 2867",Adidas,Casual,688.96,145,183,9.65,Mumbai
+38,"T-Shirt 613","Under Armour",Casual,495.87,286,222,49.77,Chennai
+39,"T-Shirt 7752",Reebok,Outdoor,999.13,341,121,49.11,Chennai
+40,"T-Shirt 5398",Reebok,Casual,409.01,31,154,19.95,Bangalore
+41,"T-Shirt 345","Under Armour",Sportswear,855.59,454,21,32.36,Mumbai
+42,"T-Shirt 1367",Reebok,Outdoor,963.88,228,124,35.11,Delhi
+43,"T-Shirt 2413",Adidas,Casual,299.96,420,245,28.47,Bangalore
+44,"T-Shirt 2660",Nike,Outdoor,367.19,132,204,30.85,Mumbai
+45,"T-Shirt 3625",Reebok,Casual,699.17,58,210,8.31,Chennai
+46,"T-Shirt 1231",Puma,Outdoor,906.41,445,239,16.49,Delhi
+47,"T-Shirt 2557",Puma,Outdoor,888.62,316,171,48.56,Mumbai
+48,"T-Shirt 7726",Puma,Outdoor,473.04,447,131,25.43,Delhi
+49,"T-Shirt 6290",Puma,Casual,611.98,228,217,13.11,Mumbai
+50,"T-Shirt 8932",Nike,Formal,906.05,290,74,24.95,Chennai
+51,"T-Shirt 2695",Nike,Formal,908.57,270,12,29.55,Chennai
+52,"T-Shirt 3694",Adidas,Formal,529.26,482,174,0.58,Delhi
+53,"T-Shirt 5477",Reebok,Casual,314.37,407,190,36.75,Chennai
+54,"T-Shirt 6431","Under Armour",Formal,440.24,347,168,36.52,Pune
+55,"T-Shirt 6381",Adidas,Formal,904.46,374,28,11.37,Pune
+56,"T-Shirt 5943",Puma,Sportswear,208.15,160,169,43.40,Hyderabad
+57,"T-Shirt 6114",Nike,Outdoor,712.00,394,5,36.42,Hyderabad
+58,"T-Shirt 7466","Under Armour",Formal,387.44,141,210,33.05,Delhi
+59,"T-Shirt 275",Puma,Formal,412.52,309,86,29.25,Mumbai
+60,"T-Shirt 5594",Reebok,Casual,992.42,432,103,6.94,Hyderabad
+61,"T-Shirt 8657",Adidas,Sportswear,934.08,496,61,2.14,Hyderabad
+62,"T-Shirt 8929",Reebok,Formal,958.24,499,42,35.96,Delhi
+63,"T-Shirt 6915","Under Armour",Formal,586.23,211,195,0.19,Mumbai
+64,"T-Shirt 2842",Adidas,Casual,280.72,205,223,24.39,Delhi
+65,"T-Shirt 5782",Adidas,Formal,345.24,63,21,49.69,Chennai
+66,"T-Shirt 7649",Puma,Formal,371.61,155,271,29.34,Delhi
+67,"T-Shirt 3593",Nike,Formal,481.04,63,170,23.43,Hyderabad
+68,"T-Shirt 7769","Under Armour",Formal,839.70,183,126,0.62,Chennai
+69,"T-Shirt 9597",Puma,Sportswear,530.31,350,76,8.83,Mumbai
+70,"T-Shirt 617","Under Armour",Formal,241.67,260,129,29.86,Chennai
+71,"T-Shirt 6828",Adidas,Formal,208.45,130,76,25.34,Chennai
+72,"T-Shirt 3043",Adidas,Sportswear,536.96,225,293,26.91,Chennai
+73,"T-Shirt 1884",Reebok,Formal,758.11,142,96,37.75,Chennai
+74,"T-Shirt 7986",Puma,Casual,384.85,11,123,49.88,Chennai
+75,"T-Shirt 7607",Puma,Casual,771.39,77,185,31.45,Delhi
+76,"T-Shirt 5800",Nike,Casual,793.18,314,273,34.13,Chennai
+77,"T-Shirt 3194",Puma,Outdoor,913.60,344,228,37.44,Bangalore
+78,"T-Shirt 392","Under Armour",Sportswear,635.26,357,279,25.76,Chennai
+79,"T-Shirt 3704",Puma,Casual,601.14,153,4,8.15,Chennai
+80,"T-Shirt 3595",Puma,Casual,481.73,337,93,26.53,Chennai
+81,"T-Shirt 175","Under Armour",Formal,208.53,197,279,24.07,Hyderabad
+82,"T-Shirt 6047",Nike,Sportswear,361.29,271,30,44.02,Mumbai
+83,"T-Shirt 8514","Under Armour",Casual,508.03,84,202,43.73,Bangalore
+84,"T-Shirt 1192",Puma,Casual,448.16,190,288,33.43,Bangalore
+85,"T-Shirt 2951",Nike,Formal,726.17,263,195,34.20,Bangalore
+86,"T-Shirt 2701","Under Armour",Outdoor,203.13,50,145,6.00,Mumbai
+87,"T-Shirt 3797",Puma,Sportswear,445.23,68,224,17.06,Bangalore
+88,"T-Shirt 2765",Nike,Sportswear,923.95,489,52,46.92,Delhi
+89,"T-Shirt 298",Reebok,Sportswear,738.06,3,3,1.71,Mumbai
+90,"T-Shirt 5981",Puma,Sportswear,655.50,341,209,22.20,Mumbai
+91,"T-Shirt 3019",Nike,Formal,450.82,176,243,49.98,Hyderabad
+92,"T-Shirt 8354",Puma,Outdoor,967.14,81,278,8.03,Mumbai
+93,"T-Shirt 6003","Under Armour",Outdoor,955.98,423,115,19.78,Chennai
+94,"T-Shirt 9191",Nike,Outdoor,296.75,450,38,47.26,Bangalore
+95,"T-Shirt 8669",Adidas,Outdoor,912.16,277,28,40.96,Chennai
+96,"T-Shirt 5855",Puma,Outdoor,403.32,10,99,29.85,Pune
+97,"T-Shirt 1694","Under Armour",Outdoor,691.13,269,251,28.91,Bangalore
+98,"T-Shirt 1594",Reebok,Outdoor,314.22,122,236,10.20,Hyderabad
+99,"T-Shirt 6831",Puma,Sportswear,520.42,289,203,32.83,Delhi
+100,"T-Shirt 2914",Reebok,Formal,221.23,132,68,17.71,Mumbai
+101,"T-Shirt 3694",Puma,Outdoor,513.10,234,47,19.80,Hyderabad
+102,"T-Shirt 3192",Nike,Casual,379.55,314,137,20.77,Chennai
+103,"T-Shirt 2487",Nike,Outdoor,592.65,250,5,30.10,Pune
+104,"T-Shirt 9478","Under Armour",Formal,438.43,360,208,16.01,Hyderabad
+105,"T-Shirt 6179",Puma,Outdoor,730.66,373,218,20.84,Pune
+106,"T-Shirt 2196",Puma,Casual,884.89,10,158,28.81,Delhi
+107,"T-Shirt 7753","Under Armour",Formal,842.28,191,147,15.71,Mumbai
+108,"T-Shirt 5513",Puma,Formal,882.22,163,19,17.53,Hyderabad
+109,"T-Shirt 7371",Nike,Outdoor,372.43,266,0,20.94,Mumbai
+110,"T-Shirt 1858",Reebok,Outdoor,844.09,375,99,20.70,Mumbai
+111,"T-Shirt 1178",Adidas,Formal,552.86,337,10,8.08,Chennai
+112,"T-Shirt 217",Nike,Outdoor,813.40,484,160,38.98,Delhi
+113,"T-Shirt 1032",Reebok,Outdoor,816.22,10,235,42.99,Pune
+114,"T-Shirt 1635","Under Armour",Casual,942.62,268,267,42.77,Hyderabad
+115,"T-Shirt 4336",Adidas,Formal,673.13,172,280,32.38,Bangalore
+116,"T-Shirt 2253","Under Armour",Casual,826.98,282,139,31.85,Chennai
+117,"T-Shirt 328",Reebok,Outdoor,241.98,301,252,20.39,Hyderabad
+118,"T-Shirt 3437",Nike,Outdoor,810.90,121,273,41.68,Bangalore
+119,"T-Shirt 6732",Nike,Casual,408.91,221,126,39.36,Chennai
+120,"T-Shirt 9818","Under Armour",Formal,308.82,489,143,22.96,Pune
+121,"T-Shirt 9212",Nike,Casual,821.58,386,157,15.32,Pune
+122,"T-Shirt 8795",Puma,Outdoor,373.12,112,138,32.12,Chennai
+123,"T-Shirt 1981",Puma,Outdoor,494.71,449,112,9.28,Chennai
+124,"T-Shirt 4566","Under Armour",Sportswear,518.66,491,212,29.95,Pune
+125,"T-Shirt 5521",Nike,Sportswear,231.58,454,124,17.34,Bangalore
+126,"T-Shirt 4251",Reebok,Outdoor,874.04,173,58,47.04,Mumbai
+127,"T-Shirt 7728",Puma,Sportswear,650.12,83,41,9.47,Hyderabad
+128,"T-Shirt 1116","Under Armour",Casual,379.66,442,220,1.53,Pune
+129,"T-Shirt 6400",Adidas,Outdoor,473.01,28,75,4.27,Chennai
+130,"T-Shirt 1254",Puma,Formal,414.03,253,216,4.65,Delhi
+131,"T-Shirt 2164",Nike,Casual,857.20,142,284,44.74,Hyderabad
+132,"T-Shirt 4583",Puma,Formal,236.32,138,70,17.75,Mumbai
+133,"T-Shirt 2669",Nike,Outdoor,978.79,120,83,33.84,Hyderabad
+134,"T-Shirt 6992","Under Armour",Sportswear,515.07,196,231,34.43,Mumbai
+135,"T-Shirt 5624",Puma,Casual,310.83,116,220,49.16,Chennai
+136,"T-Shirt 6027","Under Armour",Formal,495.92,22,30,19.04,Hyderabad
+137,"T-Shirt 8496",Puma,Formal,376.66,481,41,40.16,Hyderabad
+138,"T-Shirt 6161",Adidas,Casual,674.63,268,268,43.40,Hyderabad
+139,"T-Shirt 6751",Puma,Sportswear,882.07,109,158,49.64,Bangalore
+140,"T-Shirt 9044",Adidas,Sportswear,254.36,299,234,5.48,Delhi
+141,"T-Shirt 7053","Under Armour",Casual,482.23,263,169,12.20,Hyderabad
+142,"T-Shirt 9131","Under Armour",Sportswear,861.66,340,273,26.46,Pune
+143,"T-Shirt 9432","Under Armour",Sportswear,843.48,273,91,44.97,Hyderabad
+144,"T-Shirt 1907",Adidas,Formal,986.96,167,212,27.50,Hyderabad
+145,"T-Shirt 4603",Puma,Outdoor,739.01,492,267,25.29,Pune
+146,"T-Shirt 7678",Adidas,Sportswear,501.48,390,228,23.89,Mumbai
+147,"T-Shirt 658",Nike,Outdoor,722.62,213,47,26.12,Mumbai
+148,"T-Shirt 1112",Nike,Casual,683.43,397,45,19.00,Bangalore
+149,"T-Shirt 797",Nike,Sportswear,416.29,37,166,27.53,Mumbai
+150,"T-Shirt 7978",Reebok,Sportswear,888.51,347,264,16.17,Pune
+151,"T-Shirt 9127",Reebok,Casual,402.67,489,37,34.85,Mumbai
+152,"T-Shirt 4432","Under Armour",Sportswear,239.99,407,274,6.38,Pune
+153,"T-Shirt 1022","Under Armour",Outdoor,603.87,75,67,33.94,Chennai
+154,"T-Shirt 5628",Reebok,Formal,965.01,15,83,15.53,Chennai
+155,"T-Shirt 6328",Nike,Sportswear,251.28,321,3,6.78,Hyderabad
+156,"T-Shirt 8038",Nike,Sportswear,986.90,381,256,49.35,Bangalore
+157,"T-Shirt 9052",Puma,Casual,487.84,428,58,20.35,Bangalore
+158,"T-Shirt 362","Under Armour",Sportswear,707.57,54,188,40.95,Delhi
+159,"T-Shirt 6015",Adidas,Sportswear,335.00,339,262,17.16,Mumbai
+160,"T-Shirt 4277","Under Armour",Sportswear,675.52,432,157,2.30,Hyderabad
+161,"T-Shirt 1128",Reebok,Formal,844.37,421,236,20.56,Chennai
+162,"T-Shirt 2467",Nike,Outdoor,594.29,256,20,40.95,Pune
+163,"T-Shirt 9699",Nike,Sportswear,768.64,191,230,35.22,Delhi
+164,"T-Shirt 9574",Nike,Outdoor,859.93,285,112,8.01,Chennai
+165,"T-Shirt 9163",Puma,Outdoor,364.27,66,9,38.33,Chennai
+166,"T-Shirt 3940",Reebok,Formal,740.89,310,20,24.13,Delhi
+167,"T-Shirt 5939",Adidas,Outdoor,733.72,259,175,18.54,Mumbai
+168,"T-Shirt 3877",Reebok,Sportswear,380.99,26,171,35.47,Chennai
+169,"T-Shirt 207",Reebok,Sportswear,360.53,491,91,28.74,Pune
+170,"T-Shirt 834",Puma,Casual,568.56,36,292,32.91,Bangalore
+171,"T-Shirt 8605",Adidas,Casual,619.44,174,47,37.86,Delhi
+172,"T-Shirt 2670",Puma,Casual,239.43,241,76,41.46,Bangalore
+173,"T-Shirt 4257","Under Armour",Formal,344.64,18,189,2.61,Bangalore
+174,"T-Shirt 6715",Adidas,Casual,730.22,225,76,46.26,Pune
+175,"T-Shirt 5392",Nike,Outdoor,415.08,298,48,1.15,Hyderabad
+176,"T-Shirt 904",Puma,Formal,901.90,431,200,38.20,Chennai
+177,"T-Shirt 7715",Puma,Outdoor,727.61,475,228,48.18,Hyderabad
+178,"T-Shirt 7722",Adidas,Sportswear,367.28,26,186,47.91,Pune
+179,"T-Shirt 7513","Under Armour",Formal,449.78,306,35,38.09,Bangalore
+180,"T-Shirt 9696",Puma,Formal,479.62,26,59,42.25,Hyderabad
+181,"T-Shirt 6066",Nike,Outdoor,321.39,4,171,42.31,Hyderabad
+182,"T-Shirt 217",Puma,Outdoor,408.98,462,249,19.35,Bangalore
+183,"T-Shirt 408","Under Armour",Casual,847.21,86,129,31.99,Pune
+184,"T-Shirt 6102",Adidas,Outdoor,340.80,190,109,34.37,Bangalore
+185,"T-Shirt 6479",Adidas,Sportswear,981.22,257,190,31.54,Delhi
+186,"T-Shirt 3716",Nike,Casual,691.00,462,232,5.29,Delhi
+187,"T-Shirt 6967","Under Armour",Casual,846.16,90,141,41.15,Chennai
+188,"T-Shirt 244",Nike,Sportswear,358.80,416,167,15.17,Pune
+189,"T-Shirt 2794","Under Armour",Formal,391.43,234,184,33.77,Hyderabad
+190,"T-Shirt 6262",Puma,Outdoor,584.26,473,84,28.52,Mumbai
+191,"T-Shirt 3334",Reebok,Sportswear,265.79,408,246,33.50,Pune
+192,"T-Shirt 4006",Adidas,Formal,864.94,209,176,34.76,Chennai
+193,"T-Shirt 4578",Nike,Casual,778.64,146,84,26.50,Chennai
+194,"T-Shirt 4565","Under Armour",Outdoor,964.00,32,136,3.98,Mumbai
+195,"T-Shirt 9375",Puma,Sportswear,793.28,209,257,1.94,Hyderabad
+196,"T-Shirt 9879",Nike,Casual,900.50,58,283,19.41,Mumbai
+197,"T-Shirt 3416",Puma,Outdoor,814.40,427,288,12.08,Delhi
+198,"T-Shirt 9116",Puma,Sportswear,207.40,305,2,11.19,Mumbai
+199,"T-Shirt 7764",Reebok,Formal,884.95,32,224,27.24,Bangalore
+200,"T-Shirt 7815",Puma,Outdoor,487.65,481,216,36.31,Bangalore
+201,"T-Shirt 1528",Adidas,Casual,789.51,294,216,42.66,Mumbai
+202,"T-Shirt 9304",Adidas,Outdoor,936.13,303,78,24.93,Chennai
+203,"T-Shirt 318",Nike,Sportswear,562.44,461,72,22.02,Bangalore
+204,"T-Shirt 835","Under Armour",Formal,352.39,45,259,3.30,Chennai
+205,"T-Shirt 4625",Nike,Sportswear,689.73,244,179,26.25,Chennai
+206,"T-Shirt 5907",Puma,Casual,306.33,86,137,38.47,Bangalore
+207,"T-Shirt 735","Under Armour",Casual,633.58,150,258,20.97,Hyderabad
+208,"T-Shirt 2868","Under Armour",Formal,720.26,116,60,15.85,Pune
+209,"T-Shirt 9470",Reebok,Sportswear,446.96,65,214,9.78,Chennai
+210,"T-Shirt 5557",Adidas,Outdoor,285.46,74,124,31.58,Pune
+211,"T-Shirt 6723",Reebok,Sportswear,662.78,315,123,8.42,Hyderabad
+212,"T-Shirt 5321","Under Armour",Formal,564.10,249,35,4.93,Mumbai
+213,"T-Shirt 3985",Puma,Formal,755.06,209,1,38.86,Pune
+214,"T-Shirt 89",Puma,Sportswear,631.04,91,87,45.60,Chennai
+215,"T-Shirt 6919",Puma,Outdoor,583.18,293,146,34.41,Pune
+216,"T-Shirt 8062",Nike,Sportswear,437.25,57,201,1.32,Mumbai
+217,"T-Shirt 4849",Nike,Outdoor,690.10,72,263,47.89,Mumbai
+218,"T-Shirt 9062",Nike,Formal,843.78,114,216,46.46,Bangalore
+219,"T-Shirt 6079",Reebok,Sportswear,301.00,39,0,38.75,Pune
+220,"T-Shirt 357",Puma,Formal,860.67,12,191,6.12,Chennai
+221,"T-Shirt 1139",Puma,Sportswear,899.39,91,85,43.80,Hyderabad
+222,"T-Shirt 112",Puma,Casual,375.80,61,283,17.87,Pune
+223,"T-Shirt 6976",Reebok,Sportswear,450.53,228,98,14.33,Bangalore
+224,"T-Shirt 3564",Puma,Sportswear,679.99,215,102,20.84,Mumbai
+225,"T-Shirt 632",Nike,Casual,887.78,477,56,4.37,Pune
+226,"T-Shirt 745",Reebok,Formal,866.75,141,271,34.04,Chennai
+227,"T-Shirt 4044","Under Armour",Formal,932.99,458,248,19.48,Bangalore
+228,"T-Shirt 1671",Puma,Formal,226.72,86,226,12.88,Mumbai
+229,"T-Shirt 3500",Reebok,Casual,702.17,74,254,40.19,Bangalore
+230,"T-Shirt 9525",Adidas,Outdoor,427.30,418,95,4.18,Bangalore
+231,"T-Shirt 777","Under Armour",Formal,715.85,28,101,26.12,Hyderabad
+232,"T-Shirt 4344",Adidas,Formal,713.99,281,263,35.35,Pune
+233,"T-Shirt 3811",Adidas,Outdoor,822.07,128,282,46.94,Pune
+234,"T-Shirt 5447",Nike,Outdoor,340.44,93,118,21.00,Pune
+235,"T-Shirt 3163","Under Armour",Sportswear,707.16,244,160,10.70,Bangalore
+236,"T-Shirt 6762","Under Armour",Outdoor,715.01,226,97,13.87,Bangalore
+237,"T-Shirt 2039",Reebok,Casual,594.09,168,57,47.75,Delhi
+238,"T-Shirt 1361",Nike,Outdoor,767.32,290,229,4.44,Mumbai
+239,"T-Shirt 4802","Under Armour",Casual,807.51,414,257,40.53,Bangalore
+240,"T-Shirt 9524",Adidas,Outdoor,206.91,324,60,3.72,Chennai
+241,"T-Shirt 5954",Reebok,Formal,323.92,426,237,20.05,Hyderabad
+242,"T-Shirt 9514","Under Armour",Casual,798.58,169,132,9.74,Hyderabad
+243,"T-Shirt 6653",Adidas,Outdoor,442.59,431,116,18.33,Hyderabad
+244,"T-Shirt 2213",Nike,Outdoor,348.74,109,157,48.98,Delhi
+245,"T-Shirt 6547",Adidas,Formal,332.03,480,89,30.46,Mumbai
+246,"T-Shirt 9436",Adidas,Casual,572.64,497,168,41.88,Bangalore
+247,"T-Shirt 9825",Puma,Sportswear,522.78,316,281,40.40,Delhi
+248,"T-Shirt 6783",Reebok,Formal,909.08,294,81,30.27,Delhi
+249,"T-Shirt 2244",Puma,Outdoor,664.92,232,171,23.75,Hyderabad
+250,"T-Shirt 8509",Adidas,Outdoor,680.36,162,244,4.98,Mumbai
+251,"T-Shirt 9833",Reebok,Outdoor,750.14,42,104,24.81,Bangalore
+252,"T-Shirt 6849",Nike,Formal,498.28,114,4,19.95,Pune
+253,"T-Shirt 5343","Under Armour",Formal,445.14,427,102,7.81,Chennai
+254,"T-Shirt 2898",Nike,Sportswear,936.57,152,224,42.05,Pune
+255,"T-Shirt 2568",Puma,Casual,439.54,287,288,4.57,Hyderabad
+256,"T-Shirt 5843",Adidas,Casual,821.42,24,271,19.39,Delhi
+257,"T-Shirt 9395",Nike,Casual,763.80,219,21,2.02,Pune
+258,"T-Shirt 8314",Nike,Casual,694.34,394,22,1.13,Pune
+259,"T-Shirt 3513",Nike,Casual,235.12,405,272,6.13,Pune
+260,"T-Shirt 477",Puma,Outdoor,394.84,408,103,13.64,Delhi
+261,"T-Shirt 8423",Adidas,Formal,284.87,442,28,41.61,Pune
+262,"T-Shirt 8584",Reebok,Outdoor,252.78,437,48,9.66,Bangalore
+263,"T-Shirt 8145",Reebok,Formal,827.38,354,53,38.29,Delhi
+264,"T-Shirt 1964",Nike,Outdoor,947.11,78,292,20.79,Mumbai
+265,"T-Shirt 4993",Nike,Formal,660.00,323,149,28.10,Delhi
+266,"T-Shirt 8714",Puma,Casual,378.38,313,135,19.40,Hyderabad
+267,"T-Shirt 7477","Under Armour",Formal,679.85,429,144,41.80,Chennai
+268,"T-Shirt 1755",Reebok,Outdoor,237.95,407,275,7.63,Mumbai
+269,"T-Shirt 5859","Under Armour",Outdoor,261.80,60,108,22.65,Delhi
+270,"T-Shirt 5306",Nike,Sportswear,731.90,157,170,44.89,Chennai
+271,"T-Shirt 2453","Under Armour",Formal,445.63,401,24,0.53,Chennai
+272,"T-Shirt 9888",Puma,Formal,894.41,132,212,37.79,Hyderabad
+273,"T-Shirt 9977",Nike,Sportswear,743.11,469,192,20.24,Mumbai
+274,"T-Shirt 2651",Nike,Casual,881.66,42,256,1.26,Hyderabad
+275,"T-Shirt 7377",Nike,Outdoor,959.19,188,7,0.27,Pune
+276,"T-Shirt 7323","Under Armour",Outdoor,911.74,427,178,20.57,Delhi
+277,"T-Shirt 1434","Under Armour",Sportswear,549.40,62,89,6.22,Chennai
+278,"T-Shirt 2641",Nike,Outdoor,257.43,337,43,35.35,Mumbai
+279,"T-Shirt 3787",Puma,Outdoor,499.94,193,239,41.61,Chennai
+280,"T-Shirt 3494",Puma,Sportswear,535.96,331,12,11.06,Pune
+281,"T-Shirt 2570",Adidas,Outdoor,568.91,317,234,0.36,Chennai
+282,"T-Shirt 4376",Nike,Sportswear,925.90,396,69,39.21,Delhi
+283,"T-Shirt 7815",Adidas,Outdoor,424.02,14,87,18.57,Pune
+284,"T-Shirt 8176",Nike,Sportswear,656.78,142,209,32.30,Mumbai
+285,"T-Shirt 7284",Adidas,Sportswear,524.95,478,164,44.34,Chennai
+286,"T-Shirt 2619","Under Armour",Outdoor,281.04,266,102,6.20,Hyderabad
+287,"T-Shirt 5843",Nike,Outdoor,587.90,236,268,3.33,Hyderabad
+288,"T-Shirt 332",Adidas,Sportswear,578.16,139,288,48.62,Pune
+289,"T-Shirt 9923",Nike,Sportswear,573.14,14,219,28.64,Chennai
+290,"T-Shirt 6458",Adidas,Sportswear,958.81,198,37,22.39,Pune
+291,"T-Shirt 9597",Adidas,Sportswear,494.31,117,16,29.10,Chennai
+292,"T-Shirt 9657",Reebok,Sportswear,802.33,216,268,9.12,Delhi
+293,"T-Shirt 5868",Adidas,Formal,822.99,186,155,23.84,Chennai
+294,"T-Shirt 7203",Nike,Casual,712.28,10,52,40.77,Hyderabad
+295,"T-Shirt 3186","Under Armour",Formal,813.94,349,54,40.79,Hyderabad
+296,"T-Shirt 2278",Puma,Outdoor,462.23,343,131,6.97,Bangalore
+297,"T-Shirt 4855",Adidas,Outdoor,993.70,27,85,13.11,Bangalore
+298,"T-Shirt 5147",Nike,Casual,610.43,157,8,9.81,Pune
+299,"T-Shirt 9032","Under Armour",Casual,611.90,196,121,42.62,Mumbai
+300,"T-Shirt 6832",Adidas,Casual,783.36,361,124,45.86,Bangalore
+301,"T-Shirt 9376",Reebok,Formal,822.56,106,215,48.11,Hyderabad
+302,"T-Shirt 3840","Under Armour",Formal,444.72,314,63,8.69,Delhi
+303,"T-Shirt 6666",Reebok,Sportswear,719.34,471,227,48.49,Hyderabad
+304,"T-Shirt 9529",Nike,Casual,793.79,292,205,33.82,Delhi
+305,"T-Shirt 6108",Nike,Formal,501.88,169,166,37.85,Mumbai
+306,"T-Shirt 3457",Adidas,Outdoor,759.30,117,19,31.27,Pune
+307,"T-Shirt 7904",Nike,Casual,590.69,139,276,38.92,Mumbai
+308,"T-Shirt 2899",Nike,Formal,425.50,456,211,39.80,Pune
+309,"T-Shirt 9275",Nike,Casual,318.33,185,118,43.75,Delhi
+310,"T-Shirt 3074","Under Armour",Outdoor,917.91,295,76,25.02,Chennai
+311,"T-Shirt 2061","Under Armour",Casual,710.64,480,264,26.80,Mumbai
+312,"T-Shirt 5456",Reebok,Formal,840.76,191,150,18.25,Delhi
+313,"T-Shirt 5047",Puma,Casual,862.78,116,201,33.45,Delhi
+314,"T-Shirt 6254",Nike,Outdoor,892.52,372,36,18.97,Hyderabad
+315,"T-Shirt 5131","Under Armour",Casual,800.38,375,147,10.39,Hyderabad
+316,"T-Shirt 2115",Adidas,Sportswear,735.66,454,156,44.43,Pune
+317,"T-Shirt 7260","Under Armour",Outdoor,200.78,310,25,28.73,Hyderabad
+318,"T-Shirt 3523","Under Armour",Formal,884.93,361,9,49.84,Pune
+319,"T-Shirt 4577",Reebok,Formal,816.10,338,17,13.73,Delhi
+320,"T-Shirt 1494",Nike,Casual,473.85,309,16,20.93,Pune
+321,"T-Shirt 4028",Adidas,Outdoor,821.71,114,239,15.82,Delhi
+322,"T-Shirt 9742",Adidas,Formal,492.01,420,28,48.00,Hyderabad
+323,"T-Shirt 6944","Under Armour",Formal,987.32,131,106,49.23,Pune
+324,"T-Shirt 3560",Nike,Outdoor,944.70,474,282,43.24,Hyderabad
+325,"T-Shirt 9106",Nike,Formal,551.00,322,270,28.53,Mumbai
+326,"T-Shirt 470",Reebok,Outdoor,558.70,487,154,32.85,Chennai
+327,"T-Shirt 7311",Puma,Outdoor,669.13,1,73,10.73,Bangalore
+328,"T-Shirt 712",Adidas,Casual,292.86,164,86,22.69,Bangalore
+329,"T-Shirt 6734",Nike,Formal,291.17,222,261,1.12,Hyderabad
+330,"T-Shirt 4367",Reebok,Sportswear,550.40,452,61,15.25,Pune
+331,"T-Shirt 6601",Puma,Outdoor,457.14,109,36,47.86,Bangalore
+332,"T-Shirt 2285","Under Armour",Formal,981.07,355,184,47.09,Pune
+333,"T-Shirt 5186","Under Armour",Casual,939.92,248,208,49.85,Pune
+334,"T-Shirt 4938",Reebok,Casual,770.91,171,168,39.38,Delhi
+335,"T-Shirt 8972",Reebok,Outdoor,686.37,82,296,22.47,Delhi
+336,"T-Shirt 746",Puma,Casual,440.37,196,16,4.78,Delhi
+337,"T-Shirt 2900",Puma,Formal,791.59,374,155,17.77,Delhi
+338,"T-Shirt 226",Puma,Sportswear,813.89,76,135,40.22,Chennai
+339,"T-Shirt 9256",Reebok,Casual,891.21,139,238,7.11,Delhi
+340,"T-Shirt 2029",Nike,Formal,812.07,51,63,37.66,Mumbai
+341,"T-Shirt 3964",Puma,Outdoor,997.23,363,191,1.08,Delhi
+342,"T-Shirt 8781","Under Armour",Casual,982.55,210,48,27.30,Delhi
+343,"T-Shirt 6028",Adidas,Formal,908.59,407,122,29.76,Chennai
+344,"T-Shirt 9938",Reebok,Formal,617.13,18,181,46.41,Chennai
+345,"T-Shirt 3262",Nike,Outdoor,776.16,38,63,41.88,Hyderabad
+346,"T-Shirt 2406",Puma,Sportswear,610.40,235,239,29.61,Hyderabad
+347,"T-Shirt 383",Puma,Casual,584.88,108,189,25.35,Hyderabad
+348,"T-Shirt 6968",Puma,Formal,778.14,293,226,1.39,Pune
+349,"T-Shirt 2620",Reebok,Formal,623.40,234,222,15.66,Bangalore
+350,"T-Shirt 7529",Reebok,Casual,350.01,241,251,37.62,Delhi
+351,"T-Shirt 9673",Nike,Formal,785.82,420,0,24.52,Bangalore
+352,"T-Shirt 7585",Puma,Outdoor,697.47,61,219,15.27,Delhi
+353,"T-Shirt 7243",Reebok,Sportswear,319.70,359,38,24.95,Mumbai
+354,"T-Shirt 340","Under Armour",Sportswear,371.73,309,131,16.74,Bangalore
+355,"T-Shirt 8098","Under Armour",Casual,989.99,408,34,6.71,Delhi
+356,"T-Shirt 2065",Nike,Formal,504.04,378,189,44.52,Hyderabad
+357,"T-Shirt 1268","Under Armour",Casual,284.21,175,128,4.40,Mumbai
+358,"T-Shirt 5304",Nike,Casual,921.43,327,167,41.54,Bangalore
+359,"T-Shirt 9092",Nike,Outdoor,746.39,9,10,6.00,Bangalore
+360,"T-Shirt 1291",Nike,Casual,522.20,452,90,39.76,Mumbai
+361,"T-Shirt 9910",Reebok,Formal,341.31,435,243,22.67,Chennai
+362,"T-Shirt 7938",Puma,Sportswear,665.13,452,229,6.03,Delhi
+363,"T-Shirt 1728","Under Armour",Sportswear,321.79,89,127,29.94,Chennai
+364,"T-Shirt 7838",Reebok,Formal,357.50,242,247,33.42,Pune
+365,"T-Shirt 3465",Nike,Formal,579.35,336,278,31.67,Bangalore
+366,"T-Shirt 9964","Under Armour",Sportswear,706.84,235,133,40.75,Chennai
+367,"T-Shirt 2607",Nike,Formal,879.97,199,129,48.68,Hyderabad
+368,"T-Shirt 9278","Under Armour",Outdoor,636.48,65,1,32.05,Delhi
+369,"T-Shirt 215",Puma,Formal,653.25,462,273,39.48,Delhi
+370,"T-Shirt 6981","Under Armour",Sportswear,391.76,364,275,20.13,Delhi
+371,"T-Shirt 977",Reebok,Sportswear,238.37,274,176,14.73,Chennai
+372,"T-Shirt 6751",Adidas,Sportswear,326.98,136,261,27.69,Mumbai
+373,"T-Shirt 867","Under Armour",Formal,488.17,409,299,27.04,Chennai
+374,"T-Shirt 9307",Puma,Outdoor,611.38,64,26,2.88,Mumbai
+375,"T-Shirt 9562",Reebok,Formal,312.40,378,106,25.38,Bangalore
+376,"T-Shirt 8423",Reebok,Casual,840.40,349,24,15.79,Bangalore
+377,"T-Shirt 7301",Reebok,Sportswear,374.30,2,108,39.73,Pune
+378,"T-Shirt 644",Reebok,Sportswear,523.07,403,242,31.39,Chennai
+379,"T-Shirt 6879",Adidas,Casual,367.92,397,100,14.87,Bangalore
+380,"T-Shirt 5067",Nike,Outdoor,577.68,256,40,7.01,Delhi
+381,"T-Shirt 676",Puma,Sportswear,823.46,415,241,27.16,Delhi
+382,"T-Shirt 8613",Puma,Casual,311.44,139,288,48.73,Pune
+383,"T-Shirt 307",Nike,Outdoor,611.68,71,48,19.40,Bangalore
+384,"T-Shirt 963",Nike,Casual,450.04,277,247,23.65,Pune
+385,"T-Shirt 52",Adidas,Outdoor,276.13,478,145,28.18,Bangalore
+386,"T-Shirt 1136",Puma,Sportswear,978.06,303,33,37.12,Bangalore
+387,"T-Shirt 6535",Nike,Formal,401.68,32,167,29.93,Delhi
+388,"T-Shirt 8022",Nike,Outdoor,294.90,17,240,45.91,Delhi
+389,"T-Shirt 1546",Adidas,Formal,743.91,193,264,12.49,Hyderabad
+390,"T-Shirt 2876",Reebok,Sportswear,384.76,257,259,39.42,Bangalore
+391,"T-Shirt 3701","Under Armour",Outdoor,398.77,221,137,48.06,Bangalore
+392,"T-Shirt 2924",Nike,Outdoor,241.86,278,182,19.37,Mumbai
+393,"T-Shirt 3737",Puma,Formal,541.93,150,63,8.01,Mumbai
+394,"T-Shirt 3514",Adidas,Sportswear,519.62,149,85,26.69,Chennai
+395,"T-Shirt 4665","Under Armour",Sportswear,699.10,471,250,17.58,Delhi
+396,"T-Shirt 2067",Adidas,Outdoor,984.67,310,44,44.43,Pune
+397,"T-Shirt 3195",Reebok,Sportswear,638.15,261,287,11.66,Delhi
+398,"T-Shirt 7420","Under Armour",Sportswear,575.95,175,99,30.60,Mumbai
+399,"T-Shirt 4899",Adidas,Outdoor,390.24,397,75,43.63,Hyderabad
+400,"T-Shirt 4389",Adidas,Casual,477.13,140,105,46.42,Hyderabad
+401,"T-Shirt 1296","Under Armour",Sportswear,863.46,417,201,43.27,Delhi
+402,"T-Shirt 9530","Under Armour",Casual,269.13,241,42,13.64,Pune
+403,"T-Shirt 8530",Puma,Outdoor,496.10,301,266,32.12,Hyderabad
+404,"T-Shirt 8035",Adidas,Casual,432.00,499,33,28.75,Hyderabad
+405,"T-Shirt 9504",Nike,Outdoor,978.50,109,50,9.60,Bangalore
+406,"T-Shirt 6891",Nike,Casual,651.68,366,287,30.25,Mumbai
+407,"T-Shirt 9177",Nike,Outdoor,608.74,292,113,7.14,Hyderabad
+408,"T-Shirt 4703",Reebok,Formal,533.81,69,129,37.03,Bangalore
+409,"T-Shirt 8403","Under Armour",Casual,690.86,83,295,21.74,Delhi
+410,"T-Shirt 7694",Adidas,Formal,939.22,251,219,7.73,Hyderabad
+411,"T-Shirt 4292",Puma,Outdoor,668.62,321,134,15.82,Delhi
+412,"T-Shirt 2388",Puma,Formal,201.22,474,216,38.76,Chennai
+413,"T-Shirt 2115","Under Armour",Sportswear,523.33,449,82,34.12,Hyderabad
+414,"T-Shirt 8825",Reebok,Formal,336.15,488,107,43.46,Delhi
+415,"T-Shirt 7446","Under Armour",Casual,911.75,238,210,4.06,Delhi
+416,"T-Shirt 2758",Puma,Formal,317.10,104,178,17.39,Pune
+417,"T-Shirt 7444","Under Armour",Sportswear,613.45,274,56,14.72,Pune
+418,"T-Shirt 6611",Puma,Outdoor,854.86,181,104,32.77,Delhi
+419,"T-Shirt 2050",Adidas,Outdoor,210.35,42,110,29.98,Pune
+420,"T-Shirt 6513",Puma,Outdoor,306.98,369,84,9.93,Mumbai
+421,"T-Shirt 1365",Adidas,Outdoor,442.16,49,173,30.03,Delhi
+422,"T-Shirt 5288","Under Armour",Formal,738.42,221,55,29.85,Bangalore
+423,"T-Shirt 3768",Puma,Outdoor,340.23,264,30,46.62,Bangalore
+424,"T-Shirt 9783","Under Armour",Sportswear,608.11,480,79,22.21,Bangalore
+425,"T-Shirt 8050",Reebok,Casual,408.65,208,86,10.18,Mumbai
+426,"T-Shirt 1348",Adidas,Formal,967.00,306,53,3.26,Chennai
+427,"T-Shirt 7393",Adidas,Casual,433.46,42,162,22.73,Hyderabad
+428,"T-Shirt 8822",Puma,Formal,969.86,401,34,8.53,Hyderabad
+429,"T-Shirt 386",Reebok,Sportswear,997.66,198,294,36.31,Chennai
+430,"T-Shirt 2445",Nike,Sportswear,235.73,449,105,3.32,Delhi
+431,"T-Shirt 1793",Nike,Outdoor,867.47,374,70,46.23,Pune
+432,"T-Shirt 8395",Puma,Formal,890.40,213,159,19.32,Bangalore
+433,"T-Shirt 5230",Reebok,Casual,586.20,19,219,27.46,Hyderabad
+434,"T-Shirt 1090","Under Armour",Sportswear,970.57,218,85,5.91,Chennai
+435,"T-Shirt 3309",Puma,Sportswear,832.03,140,7,14.46,Bangalore
+436,"T-Shirt 9821","Under Armour",Sportswear,908.93,130,189,19.34,Mumbai
+437,"T-Shirt 233",Nike,Outdoor,832.43,35,290,31.76,Delhi
+438,"T-Shirt 4570",Puma,Outdoor,539.36,115,260,32.77,Chennai
+439,"T-Shirt 3955","Under Armour",Formal,354.95,65,16,44.91,Delhi
+440,"T-Shirt 9121",Puma,Sportswear,554.73,241,20,45.07,Delhi
+441,"T-Shirt 8070",Nike,Sportswear,771.11,457,125,17.53,Hyderabad
+442,"T-Shirt 4521",Reebok,Casual,917.95,93,69,29.99,Delhi
+443,"T-Shirt 7345",Reebok,Formal,626.30,497,109,42.17,Mumbai
+444,"T-Shirt 896",Nike,Sportswear,459.33,147,147,29.11,Bangalore
+445,"T-Shirt 4197",Reebok,Formal,421.50,93,26,44.50,Delhi
+446,"T-Shirt 2502",Reebok,Formal,696.83,439,155,48.32,Delhi
+447,"T-Shirt 4689",Puma,Sportswear,588.89,400,160,14.04,Chennai
+448,"T-Shirt 1443",Adidas,Sportswear,264.22,383,174,30.88,Bangalore
+449,"T-Shirt 8442",Adidas,Casual,841.22,282,122,17.42,Hyderabad
+450,"T-Shirt 5556",Adidas,Casual,561.11,499,189,8.27,Pune
+451,"T-Shirt 1645",Nike,Formal,279.39,298,202,29.48,Pune
+452,"T-Shirt 8455",Puma,Outdoor,531.26,400,225,17.80,Hyderabad
+453,"T-Shirt 5735",Adidas,Formal,692.49,1,48,40.11,Hyderabad
+454,"T-Shirt 2251",Puma,Sportswear,710.99,15,68,2.95,Hyderabad
+455,"T-Shirt 8557",Puma,Formal,412.45,73,279,10.63,Delhi
+456,"T-Shirt 7276","Under Armour",Outdoor,275.96,375,137,2.07,Pune
+457,"T-Shirt 453",Reebok,Casual,405.85,417,116,21.86,Mumbai
+458,"T-Shirt 8146","Under Armour",Formal,778.35,494,229,43.43,Mumbai
+459,"T-Shirt 6188","Under Armour",Outdoor,860.41,154,16,17.46,Hyderabad
+460,"T-Shirt 8806",Reebok,Formal,202.92,130,83,30.70,Delhi
+461,"T-Shirt 3404","Under Armour",Outdoor,781.95,408,268,1.58,Bangalore
+462,"T-Shirt 2585","Under Armour",Formal,591.59,286,116,11.57,Pune
+463,"T-Shirt 2507",Adidas,Formal,628.58,323,184,6.85,Pune
+464,"T-Shirt 8021",Puma,Sportswear,669.04,457,241,14.42,Mumbai
+465,"T-Shirt 2590",Adidas,Casual,975.17,434,127,26.34,Bangalore
+466,"T-Shirt 2122","Under Armour",Casual,594.72,301,155,39.69,Bangalore
+467,"T-Shirt 6808",Nike,Outdoor,561.89,447,32,43.10,Pune
+468,"T-Shirt 3360",Reebok,Formal,956.96,428,131,31.55,Pune
+469,"T-Shirt 2892","Under Armour",Outdoor,413.52,447,197,30.82,Mumbai
+470,"T-Shirt 6796",Nike,Casual,668.59,417,123,27.48,Hyderabad
+471,"T-Shirt 9394",Nike,Outdoor,264.02,349,73,6.44,Pune
+472,"T-Shirt 1680",Nike,Sportswear,872.34,53,1,35.77,Hyderabad
+473,"T-Shirt 6431",Puma,Outdoor,420.65,21,113,38.62,Chennai
+474,"T-Shirt 2961",Adidas,Formal,549.41,82,149,0.12,Hyderabad
+475,"T-Shirt 5878",Adidas,Sportswear,670.99,253,226,13.41,Mumbai
+476,"T-Shirt 5508",Puma,Sportswear,709.22,15,70,4.36,Chennai
+477,"T-Shirt 3942",Reebok,Formal,351.81,421,188,30.95,Delhi
+478,"T-Shirt 2022",Adidas,Casual,378.91,157,266,25.48,Pune
+479,"T-Shirt 8671",Reebok,Outdoor,479.80,43,113,31.66,Mumbai
+480,"T-Shirt 2573",Nike,Sportswear,493.45,136,76,23.14,Hyderabad
+481,"T-Shirt 3465",Nike,Casual,852.72,414,204,46.79,Hyderabad
+482,"T-Shirt 3447","Under Armour",Sportswear,309.09,154,36,34.43,Mumbai
+483,"T-Shirt 3228",Adidas,Outdoor,625.13,428,204,42.26,Delhi
+484,"T-Shirt 3588",Adidas,Sportswear,419.73,375,276,17.93,Mumbai
+485,"T-Shirt 649",Adidas,Sportswear,445.21,261,204,41.98,Mumbai
+486,"T-Shirt 2685","Under Armour",Formal,289.37,466,94,38.86,Pune
+487,"T-Shirt 3926",Nike,Casual,946.96,139,176,5.18,Chennai
+488,"T-Shirt 4688",Nike,Outdoor,713.47,145,155,36.30,Mumbai
+489,"T-Shirt 1913",Reebok,Sportswear,440.17,101,31,46.08,Delhi
+490,"T-Shirt 6930",Puma,Outdoor,680.05,190,28,16.63,Bangalore
+491,"T-Shirt 9061",Adidas,Sportswear,963.85,52,193,46.17,Chennai
+492,"T-Shirt 6250",Nike,Formal,649.19,58,265,4.33,Chennai
+493,"T-Shirt 6163",Reebok,Outdoor,508.18,69,159,11.93,Hyderabad
+494,"T-Shirt 2949",Reebok,Casual,419.09,4,62,0.93,Bangalore
+495,"T-Shirt 2943",Nike,Casual,949.73,207,76,1.72,Bangalore
+496,"T-Shirt 9346",Puma,Casual,912.51,55,261,1.33,Hyderabad
+497,"T-Shirt 5279",Nike,Outdoor,781.92,134,46,48.35,Bangalore
+498,"T-Shirt 9650",Reebok,Formal,236.32,168,160,33.59,Chennai
+499,"T-Shirt 7492",Puma,Sportswear,584.16,420,225,11.96,Pune
+500,"T-Shirt 9957",Nike,Outdoor,502.65,299,253,22.12,Chennai
+501,"T-Shirt 344",Nike,Formal,912.08,220,156,14.62,Pune
+502,"T-Shirt 6104",Adidas,Outdoor,797.97,422,292,17.11,Chennai
+503,"T-Shirt 9097",Nike,Sportswear,573.32,360,58,41.05,Hyderabad
+504,"T-Shirt 1246",Nike,Outdoor,739.73,222,58,32.08,Hyderabad
+505,"T-Shirt 1958",Nike,Outdoor,521.68,91,209,47.13,Hyderabad
+506,"T-Shirt 2796",Puma,Outdoor,632.12,110,142,35.48,Mumbai
+507,"T-Shirt 5119",Nike,Casual,332.58,410,178,26.04,Chennai
+508,"T-Shirt 5233",Nike,Casual,824.49,70,105,17.07,Hyderabad
+509,"T-Shirt 2361",Adidas,Casual,512.56,360,125,47.16,Bangalore
+510,"T-Shirt 4502","Under Armour",Sportswear,741.42,95,275,0.96,Bangalore
+511,"T-Shirt 6548",Adidas,Casual,682.96,108,78,32.83,Hyderabad
+512,"T-Shirt 5430",Adidas,Casual,536.65,441,42,3.04,Pune
+513,"T-Shirt 2246",Puma,Formal,332.87,337,259,15.29,Pune
+514,"T-Shirt 7521","Under Armour",Formal,848.95,223,236,30.32,Chennai
+515,"T-Shirt 5228",Reebok,Casual,642.00,169,8,6.37,Hyderabad
+516,"T-Shirt 3854",Adidas,Sportswear,261.91,434,28,43.86,Mumbai
+517,"T-Shirt 8702",Nike,Formal,242.52,175,173,42.43,Hyderabad
+518,"T-Shirt 9894",Puma,Sportswear,622.11,79,60,27.16,Mumbai
+519,"T-Shirt 9026",Nike,Casual,777.38,415,292,19.78,Mumbai
+520,"T-Shirt 612",Nike,Formal,629.27,441,237,16.05,Delhi
+521,"T-Shirt 1714",Nike,Casual,442.77,212,59,36.02,Mumbai
+522,"T-Shirt 8893",Puma,Casual,855.82,430,249,29.37,Bangalore
+523,"T-Shirt 4333","Under Armour",Outdoor,348.79,47,272,13.02,Hyderabad
+524,"T-Shirt 1034",Reebok,Formal,793.57,426,8,29.57,Pune
+525,"T-Shirt 5753",Adidas,Formal,393.22,194,61,43.20,Chennai
+526,"T-Shirt 9379",Puma,Sportswear,606.50,205,156,18.75,Delhi
+527,"T-Shirt 4405",Adidas,Outdoor,346.23,468,36,40.54,Chennai
+528,"T-Shirt 9927","Under Armour",Formal,275.34,393,190,41.04,Delhi
+529,"T-Shirt 5367",Nike,Outdoor,841.27,289,143,32.79,Pune
+530,"T-Shirt 2702","Under Armour",Sportswear,789.94,496,221,36.20,Bangalore
+531,"T-Shirt 8428",Nike,Casual,575.32,430,264,41.45,Hyderabad
+532,"T-Shirt 272",Reebok,Sportswear,515.40,405,257,43.39,Chennai
+533,"T-Shirt 2083",Reebok,Sportswear,577.24,460,54,7.72,Delhi
+534,"T-Shirt 6528",Puma,Sportswear,428.62,196,28,15.42,Delhi
+535,"T-Shirt 3382","Under Armour",Formal,560.84,155,55,0.37,Bangalore
+536,"T-Shirt 3661",Adidas,Outdoor,403.08,303,78,24.83,Chennai
+537,"T-Shirt 9879","Under Armour",Casual,960.03,423,112,16.63,Hyderabad
+538,"T-Shirt 7179","Under Armour",Formal,479.63,407,5,32.23,Delhi
+539,"T-Shirt 9238",Nike,Outdoor,555.44,485,153,32.82,Chennai
+540,"T-Shirt 7466",Puma,Casual,898.60,269,19,35.76,Bangalore
+541,"T-Shirt 7551",Reebok,Outdoor,716.37,250,166,14.22,Chennai
+542,"T-Shirt 9133",Adidas,Outdoor,238.40,433,52,13.79,Pune
+543,"T-Shirt 4635",Reebok,Casual,512.61,493,225,40.31,Chennai
+544,"T-Shirt 4482","Under Armour",Casual,633.32,464,3,13.79,Bangalore
+545,"T-Shirt 8898",Puma,Casual,895.05,35,222,24.61,Delhi
+546,"T-Shirt 7271","Under Armour",Casual,351.29,397,117,28.86,Chennai
+547,"T-Shirt 8353",Nike,Formal,417.92,169,259,15.56,Pune
+548,"T-Shirt 8805",Puma,Outdoor,283.70,370,114,34.27,Delhi
+549,"T-Shirt 3656","Under Armour",Outdoor,973.30,250,177,23.10,Hyderabad
+550,"T-Shirt 2921","Under Armour",Casual,522.08,419,293,19.02,Pune
+551,"T-Shirt 6863",Puma,Formal,583.09,274,88,41.54,Delhi
+552,"T-Shirt 8660",Puma,Outdoor,476.19,398,281,15.04,Chennai
+553,"T-Shirt 5588",Reebok,Outdoor,519.98,136,47,48.48,Bangalore
+554,"T-Shirt 9773",Reebok,Outdoor,958.42,107,65,22.94,Hyderabad
+555,"T-Shirt 8042",Nike,Sportswear,533.38,317,274,34.06,Hyderabad
+556,"T-Shirt 2386",Adidas,Casual,470.09,244,125,31.73,Pune
+557,"T-Shirt 6741",Reebok,Sportswear,691.64,392,21,0.08,Chennai
+558,"T-Shirt 9821",Puma,Formal,739.75,219,48,24.53,Pune
+559,"T-Shirt 3881",Nike,Outdoor,774.64,359,130,0.66,Chennai
+560,"T-Shirt 7891",Reebok,Outdoor,542.47,260,93,49.91,Mumbai
+561,"T-Shirt 2899",Adidas,Formal,827.09,175,116,45.18,Bangalore
+562,"T-Shirt 326",Nike,Casual,263.83,473,146,29.79,Hyderabad
+563,"T-Shirt 8088",Puma,Sportswear,648.69,398,87,3.77,Hyderabad
+564,"T-Shirt 2745","Under Armour",Formal,256.01,372,150,14.08,Pune
+565,"T-Shirt 6621",Reebok,Sportswear,527.27,456,98,45.44,Hyderabad
+566,"T-Shirt 638",Reebok,Sportswear,376.74,9,124,1.58,Pune
+567,"T-Shirt 4518",Puma,Casual,926.16,320,140,21.32,Chennai
+568,"T-Shirt 3582",Reebok,Outdoor,208.08,78,222,11.79,Pune
+569,"T-Shirt 868",Puma,Formal,967.04,108,60,18.29,Delhi
+570,"T-Shirt 73",Adidas,Outdoor,288.75,11,229,38.32,Hyderabad
+571,"T-Shirt 3770",Adidas,Casual,590.36,324,231,45.49,Delhi
+572,"T-Shirt 4604",Puma,Formal,226.13,246,104,13.94,Bangalore
+573,"T-Shirt 8856",Adidas,Casual,518.11,22,5,48.02,Chennai
+574,"T-Shirt 8656",Nike,Outdoor,821.75,239,15,41.20,Pune
+575,"T-Shirt 3652","Under Armour",Formal,872.16,318,196,18.65,Pune
+576,"T-Shirt 3689",Nike,Formal,843.35,34,275,19.71,Delhi
+577,"T-Shirt 8925","Under Armour",Casual,680.32,387,17,48.65,Chennai
+578,"T-Shirt 5388",Reebok,Casual,631.44,131,205,32.13,Mumbai
+579,"T-Shirt 8601","Under Armour",Formal,448.54,441,140,34.99,Mumbai
+580,"T-Shirt 3716",Puma,Outdoor,264.38,62,112,24.84,Bangalore
+581,"T-Shirt 3266",Puma,Formal,232.83,5,275,28.03,Mumbai
+582,"T-Shirt 5718",Reebok,Outdoor,978.19,204,36,19.17,Hyderabad
+583,"T-Shirt 6121",Puma,Sportswear,754.28,463,162,46.51,Mumbai
+584,"T-Shirt 3572",Reebok,Casual,983.94,329,103,37.64,Chennai
+585,"T-Shirt 3915",Reebok,Formal,208.49,36,95,18.91,Pune
+586,"T-Shirt 5477","Under Armour",Sportswear,382.04,67,293,24.67,Hyderabad
+587,"T-Shirt 1805",Adidas,Outdoor,214.39,68,184,33.27,Bangalore
+588,"T-Shirt 4352",Reebok,Casual,397.91,201,79,5.77,Chennai
+589,"T-Shirt 5779",Puma,Outdoor,281.27,345,40,30.62,Hyderabad
+590,"T-Shirt 4381",Adidas,Outdoor,502.85,233,54,25.96,Mumbai
+591,"T-Shirt 6874",Adidas,Casual,256.09,96,222,7.10,Bangalore
+592,"T-Shirt 9742",Puma,Sportswear,896.11,327,196,16.00,Hyderabad
+593,"T-Shirt 1995",Nike,Outdoor,394.77,247,218,8.35,Hyderabad
+594,"T-Shirt 7396",Reebok,Formal,592.73,403,166,17.68,Mumbai
+595,"T-Shirt 4664",Nike,Formal,480.76,360,162,27.34,Mumbai
+596,"T-Shirt 9175",Adidas,Formal,838.14,228,265,3.03,Hyderabad
+597,"T-Shirt 472",Adidas,Casual,886.31,120,185,18.65,Mumbai
+598,"T-Shirt 9410",Reebok,Formal,687.22,239,167,17.64,Mumbai
+599,"T-Shirt 4094",Reebok,Formal,775.49,394,233,26.16,Delhi
+600,"T-Shirt 8563",Puma,Formal,624.75,486,78,20.00,Delhi
+601,"T-Shirt 8574",Reebok,Formal,594.42,199,152,17.15,Delhi
+602,"T-Shirt 9397",Nike,Outdoor,589.37,67,60,30.74,Bangalore
+603,"T-Shirt 4864",Nike,Formal,546.19,24,281,27.20,Pune
+604,"T-Shirt 9073","Under Armour",Casual,421.08,179,285,34.13,Hyderabad
+605,"T-Shirt 7632",Nike,Casual,516.21,455,108,3.72,Delhi
+606,"T-Shirt 2267",Adidas,Formal,512.52,25,20,9.68,Chennai
+607,"T-Shirt 2432","Under Armour",Outdoor,699.98,247,176,23.46,Hyderabad
+608,"T-Shirt 4769",Reebok,Outdoor,384.48,321,154,32.39,Chennai
+609,"T-Shirt 5300",Puma,Sportswear,601.17,396,133,42.86,Pune
+610,"T-Shirt 1726",Nike,Formal,815.97,80,146,48.06,Bangalore
+611,"T-Shirt 8264",Nike,Sportswear,950.45,269,260,36.84,Mumbai
+612,"T-Shirt 1701",Reebok,Formal,305.35,433,277,1.44,Bangalore
+613,"T-Shirt 7656",Reebok,Casual,432.45,296,25,32.13,Pune
+614,"T-Shirt 8853",Puma,Sportswear,661.50,386,35,14.34,Mumbai
+615,"T-Shirt 5153",Adidas,Sportswear,997.68,178,235,42.74,Pune
+616,"T-Shirt 446",Puma,Sportswear,517.15,263,128,28.61,Hyderabad
+617,"T-Shirt 1554",Nike,Outdoor,876.81,414,179,25.14,Chennai
+618,"T-Shirt 1086",Adidas,Formal,658.78,128,165,49.42,Delhi
+619,"T-Shirt 4892",Puma,Casual,419.06,89,18,38.51,Chennai
+620,"T-Shirt 422",Nike,Outdoor,799.80,71,137,43.32,Pune
+621,"T-Shirt 1881",Nike,Outdoor,738.97,22,58,42.53,Hyderabad
+622,"T-Shirt 7688","Under Armour",Outdoor,360.28,77,48,17.53,Delhi
+623,"T-Shirt 2835",Reebok,Sportswear,439.42,406,47,17.93,Delhi
+624,"T-Shirt 5067",Puma,Casual,396.13,16,126,0.39,Chennai
+625,"T-Shirt 8618","Under Armour",Casual,668.42,10,100,30.75,Mumbai
+626,"T-Shirt 5173",Adidas,Casual,491.33,471,183,11.48,Delhi
+627,"T-Shirt 8929",Puma,Outdoor,957.31,19,104,31.38,Mumbai
+628,"T-Shirt 5846",Reebok,Casual,496.80,240,83,47.90,Pune
+629,"T-Shirt 8920",Reebok,Casual,864.65,88,115,19.87,Chennai
+630,"T-Shirt 9694",Adidas,Outdoor,330.98,148,293,0.33,Mumbai
+631,"T-Shirt 4743",Nike,Outdoor,629.10,414,157,7.53,Delhi
+632,"T-Shirt 4139",Puma,Formal,916.83,477,22,25.87,Bangalore
+633,"T-Shirt 2558",Nike,Sportswear,549.49,288,169,4.93,Chennai
+634,"T-Shirt 6933",Nike,Casual,363.62,87,74,36.15,Pune
+635,"T-Shirt 1789",Adidas,Outdoor,680.40,166,254,12.54,Chennai
+636,"T-Shirt 7934","Under Armour",Outdoor,657.90,205,98,20.45,Mumbai
+637,"T-Shirt 896",Adidas,Sportswear,462.07,291,275,42.79,Hyderabad
+638,"T-Shirt 312",Puma,Outdoor,724.53,307,29,32.34,Pune
+639,"T-Shirt 7731",Nike,Outdoor,376.60,255,263,43.22,Chennai
+640,"T-Shirt 8458",Nike,Casual,964.17,453,198,29.24,Pune
+641,"T-Shirt 9638","Under Armour",Sportswear,426.79,137,152,36.38,Mumbai
+642,"T-Shirt 3729",Puma,Formal,272.63,425,289,14.22,Hyderabad
+643,"T-Shirt 7700",Adidas,Sportswear,615.08,195,116,38.33,Chennai
+644,"T-Shirt 653",Adidas,Casual,819.96,430,289,12.89,Bangalore
+645,"T-Shirt 1707",Reebok,Outdoor,643.59,3,108,39.77,Pune
+646,"T-Shirt 630",Reebok,Sportswear,399.54,71,285,16.48,Chennai
+647,"T-Shirt 9990",Reebok,Sportswear,420.69,167,249,8.27,Delhi
+648,"T-Shirt 1480",Reebok,Casual,484.64,407,298,26.69,Chennai
+649,"T-Shirt 8255",Nike,Outdoor,352.86,159,1,3.86,Bangalore
+650,"T-Shirt 6199","Under Armour",Sportswear,563.01,10,220,30.86,Pune
+651,"T-Shirt 5492",Nike,Outdoor,266.34,390,194,44.83,Hyderabad
+652,"T-Shirt 181",Puma,Casual,974.10,11,59,46.28,Mumbai
+653,"T-Shirt 4063","Under Armour",Casual,343.31,367,38,22.16,Chennai
+654,"T-Shirt 8171",Puma,Formal,909.23,413,140,43.59,Pune
+655,"T-Shirt 1304","Under Armour",Formal,790.51,401,237,27.90,Bangalore
+656,"T-Shirt 3866",Reebok,Casual,621.32,333,224,37.08,Bangalore
+657,"T-Shirt 980",Nike,Sportswear,715.56,333,116,47.29,Hyderabad
+658,"T-Shirt 9909",Adidas,Casual,845.41,44,3,40.15,Pune
+659,"T-Shirt 4770",Puma,Outdoor,855.93,297,150,36.59,Mumbai
+660,"T-Shirt 5711",Adidas,Casual,313.44,458,45,0.44,Hyderabad
+661,"T-Shirt 9218","Under Armour",Casual,730.94,5,15,11.83,Mumbai
+662,"T-Shirt 4157",Nike,Outdoor,865.45,428,234,16.92,Bangalore
+663,"T-Shirt 7297",Reebok,Outdoor,434.49,6,50,40.87,Hyderabad
+664,"T-Shirt 4368",Puma,Outdoor,486.65,485,230,46.85,Bangalore
+665,"T-Shirt 806",Adidas,Sportswear,746.05,62,169,23.08,Hyderabad
+666,"T-Shirt 6627",Puma,Casual,787.62,180,178,44.71,Chennai
+667,"T-Shirt 7511",Reebok,Sportswear,223.04,241,93,6.05,Chennai
+668,"T-Shirt 9736","Under Armour",Casual,560.83,15,236,42.50,Pune
+669,"T-Shirt 8951","Under Armour",Casual,486.11,361,160,25.35,Pune
+670,"T-Shirt 1334","Under Armour",Outdoor,386.45,128,173,6.07,Pune
+671,"T-Shirt 35",Adidas,Outdoor,739.54,228,75,44.63,Chennai
+672,"T-Shirt 8620",Nike,Casual,330.98,395,136,45.39,Delhi
+673,"T-Shirt 1395",Nike,Casual,884.92,423,196,37.07,Chennai
+674,"T-Shirt 4837",Nike,Formal,202.73,236,103,15.64,Hyderabad
+675,"T-Shirt 6964","Under Armour",Casual,503.27,325,31,29.27,Hyderabad
+676,"T-Shirt 2785",Puma,Sportswear,518.30,463,128,18.57,Hyderabad
+677,"T-Shirt 7321","Under Armour",Formal,980.72,90,290,15.39,Hyderabad
+678,"T-Shirt 2339",Adidas,Formal,629.68,336,222,35.07,Delhi
+679,"T-Shirt 2848",Puma,Sportswear,778.46,160,128,9.19,Hyderabad
+680,"T-Shirt 6127",Nike,Outdoor,552.30,122,268,37.17,Mumbai
+681,"T-Shirt 9330",Puma,Sportswear,583.54,146,5,10.74,Mumbai
+682,"T-Shirt 4565",Adidas,Formal,230.35,487,223,40.24,Chennai
+683,"T-Shirt 5387",Adidas,Outdoor,997.58,4,14,10.67,Pune
+684,"T-Shirt 9856",Nike,Outdoor,663.26,238,190,37.73,Pune
+685,"T-Shirt 641",Reebok,Casual,965.07,253,197,39.08,Pune
+686,"T-Shirt 2976",Reebok,Formal,992.40,47,149,10.36,Hyderabad
+687,"T-Shirt 906","Under Armour",Outdoor,842.79,226,252,42.70,Chennai
+688,"T-Shirt 1733",Reebok,Formal,321.88,475,86,29.71,Mumbai
+689,"T-Shirt 7433",Puma,Outdoor,736.81,17,44,32.18,Chennai
+690,"T-Shirt 9346",Adidas,Outdoor,813.74,470,118,8.16,Hyderabad
+691,"T-Shirt 6426",Adidas,Formal,764.55,153,122,6.64,Bangalore
+692,"T-Shirt 7733",Puma,Casual,836.98,246,18,41.94,Mumbai
+693,"T-Shirt 5254",Reebok,Casual,489.47,256,141,41.22,Chennai
+694,"T-Shirt 558",Nike,Formal,770.13,324,28,26.82,Bangalore
+695,"T-Shirt 3701",Reebok,Sportswear,223.04,270,181,20.43,Delhi
+696,"T-Shirt 9114","Under Armour",Formal,660.33,480,20,23.35,Mumbai
+697,"T-Shirt 2399","Under Armour",Casual,459.02,281,250,24.67,Pune
+698,"T-Shirt 3165",Reebok,Formal,797.76,11,259,12.85,Chennai
+699,"T-Shirt 6903",Adidas,Outdoor,911.18,19,156,24.57,Pune
+700,"T-Shirt 9988",Adidas,Formal,874.38,276,68,24.24,Chennai
+701,"T-Shirt 2481",Nike,Casual,756.74,215,17,0.29,Pune
+702,"T-Shirt 2449",Reebok,Formal,998.80,97,290,13.43,Bangalore
+703,"T-Shirt 3680",Puma,Formal,410.34,299,57,8.56,Delhi
+704,"T-Shirt 8802",Puma,Sportswear,380.75,291,67,19.30,Delhi
+705,"T-Shirt 1021",Reebok,Casual,247.77,456,110,5.82,Bangalore
+706,"T-Shirt 168",Reebok,Casual,492.51,9,294,43.04,Bangalore
+707,"T-Shirt 2088","Under Armour",Sportswear,352.52,150,275,34.78,Chennai
+708,"T-Shirt 5288",Puma,Outdoor,609.85,102,141,37.77,Bangalore
+709,"T-Shirt 5321",Puma,Casual,849.58,64,59,30.49,Bangalore
+710,"T-Shirt 4436","Under Armour",Outdoor,311.53,441,294,13.05,Bangalore
+711,"T-Shirt 341",Nike,Casual,399.52,179,10,5.44,Bangalore
+712,"T-Shirt 8514","Under Armour",Sportswear,309.27,48,18,1.18,Pune
+713,"T-Shirt 5944",Nike,Sportswear,912.65,105,111,11.29,Mumbai
+714,"T-Shirt 4131",Nike,Outdoor,235.26,390,228,23.46,Mumbai
+715,"T-Shirt 9006",Adidas,Outdoor,592.35,394,139,48.39,Bangalore
+716,"T-Shirt 2978",Nike,Outdoor,384.76,159,267,25.64,Pune
+717,"T-Shirt 8816",Reebok,Sportswear,528.61,325,3,5.83,Hyderabad
+718,"T-Shirt 3682",Adidas,Outdoor,279.55,333,5,5.26,Bangalore
+719,"T-Shirt 224",Reebok,Casual,403.35,424,140,40.37,Hyderabad
+720,"T-Shirt 7175",Reebok,Casual,775.98,252,105,12.62,Delhi
+721,"T-Shirt 2724",Reebok,Outdoor,428.78,362,225,29.71,Chennai
+722,"T-Shirt 7874",Reebok,Formal,743.34,280,226,5.25,Delhi
+723,"T-Shirt 9649",Nike,Casual,817.77,349,50,37.28,Delhi
+724,"T-Shirt 8939",Reebok,Casual,998.71,85,254,36.71,Mumbai
+725,"T-Shirt 4333",Reebok,Formal,816.15,489,172,46.89,Pune
+726,"T-Shirt 247",Adidas,Sportswear,585.70,164,56,47.74,Delhi
+727,"T-Shirt 1978",Adidas,Sportswear,815.53,177,137,11.74,Chennai
+728,"T-Shirt 2790",Nike,Sportswear,935.08,18,125,49.20,Chennai
+729,"T-Shirt 3835","Under Armour",Casual,520.88,360,116,39.62,Chennai
+730,"T-Shirt 5840",Puma,Outdoor,350.89,29,214,20.14,Pune
+731,"T-Shirt 1440",Nike,Sportswear,378.11,395,82,0.09,Delhi
+732,"T-Shirt 9351",Nike,Outdoor,535.29,424,292,16.92,Chennai
+733,"T-Shirt 8071",Reebok,Casual,374.01,113,141,34.37,Mumbai
+734,"T-Shirt 310",Nike,Casual,766.37,170,170,41.53,Bangalore
+735,"T-Shirt 7316",Adidas,Casual,319.97,241,286,16.46,Chennai
+736,"T-Shirt 9195",Adidas,Formal,830.67,207,209,12.95,Delhi
+737,"T-Shirt 2040",Puma,Formal,539.50,248,59,25.02,Pune
+738,"T-Shirt 591",Puma,Formal,529.69,106,243,21.65,Chennai
+739,"T-Shirt 3355",Puma,Casual,913.86,17,146,16.97,Delhi
+740,"T-Shirt 1513",Nike,Outdoor,944.15,98,55,16.95,Mumbai
+741,"T-Shirt 6858",Nike,Outdoor,895.95,208,140,4.58,Mumbai
+742,"T-Shirt 9991","Under Armour",Sportswear,444.20,26,99,25.58,Hyderabad
+743,"T-Shirt 2675",Reebok,Casual,541.26,350,63,48.02,Delhi
+744,"T-Shirt 9611",Adidas,Formal,352.18,51,278,17.35,Pune
+745,"T-Shirt 6879",Reebok,Outdoor,943.60,404,72,39.64,Delhi
+746,"T-Shirt 8071",Adidas,Sportswear,223.31,275,197,31.75,Delhi
+747,"T-Shirt 1207","Under Armour",Formal,936.90,438,183,22.01,Bangalore
+748,"T-Shirt 4867",Adidas,Casual,497.92,8,285,35.77,Chennai
+749,"T-Shirt 4647",Nike,Casual,585.01,119,223,0.30,Chennai
+750,"T-Shirt 9732",Puma,Casual,820.94,284,152,41.88,Hyderabad
+751,"T-Shirt 8086",Nike,Outdoor,980.13,201,23,9.12,Chennai
+752,"T-Shirt 8615",Adidas,Formal,881.90,40,250,47.10,Delhi
+753,"T-Shirt 1911",Adidas,Sportswear,777.00,78,181,28.50,Mumbai
+754,"T-Shirt 4418",Nike,Casual,970.64,14,73,7.00,Pune
+755,"T-Shirt 4203",Nike,Formal,222.23,487,233,48.65,Hyderabad
+756,"T-Shirt 7278",Nike,Sportswear,367.09,416,157,6.82,Mumbai
+757,"T-Shirt 1102",Adidas,Outdoor,689.47,232,144,0.58,Hyderabad
+758,"T-Shirt 474",Adidas,Outdoor,851.36,344,296,43.85,Bangalore
+759,"T-Shirt 4899",Nike,Casual,635.41,240,227,17.88,Hyderabad
+760,"T-Shirt 4868","Under Armour",Sportswear,568.75,108,205,39.24,Pune
+761,"T-Shirt 9842",Adidas,Formal,385.72,127,170,3.71,Chennai
+762,"T-Shirt 1318",Reebok,Outdoor,391.83,348,227,35.02,Delhi
+763,"T-Shirt 429",Puma,Formal,979.34,168,227,38.92,Hyderabad
+764,"T-Shirt 7672","Under Armour",Formal,946.15,475,285,45.31,Chennai
+765,"T-Shirt 6686",Adidas,Formal,846.22,198,166,29.44,Delhi
+766,"T-Shirt 6254",Adidas,Formal,229.44,222,28,7.72,Bangalore
+767,"T-Shirt 9559",Adidas,Outdoor,903.20,39,225,26.11,Bangalore
+768,"T-Shirt 2225",Nike,Formal,616.12,11,162,32.64,Hyderabad
+769,"T-Shirt 2148",Nike,Sportswear,610.37,478,68,14.33,Chennai
+770,"T-Shirt 8587",Nike,Formal,592.48,125,231,5.72,Delhi
+771,"T-Shirt 9313","Under Armour",Formal,722.95,137,120,9.14,Chennai
+772,"T-Shirt 201","Under Armour",Formal,843.52,407,196,41.46,Delhi
+773,"T-Shirt 4342",Reebok,Outdoor,262.30,18,282,29.90,Delhi
+774,"T-Shirt 429",Reebok,Casual,217.14,409,6,32.72,Delhi
+775,"T-Shirt 725",Reebok,Casual,368.19,298,103,47.10,Chennai
+776,"T-Shirt 5359",Reebok,Formal,623.50,270,32,46.39,Delhi
+777,"T-Shirt 7689","Under Armour",Casual,643.52,500,97,31.82,Delhi
+778,"T-Shirt 1084","Under Armour",Casual,886.16,150,276,35.28,Chennai
+779,"T-Shirt 7173",Adidas,Casual,630.41,428,196,35.93,Hyderabad
+780,"T-Shirt 9616","Under Armour",Outdoor,369.29,324,178,2.13,Bangalore
+781,"T-Shirt 9870",Reebok,Casual,880.43,73,50,20.44,Hyderabad
+782,"T-Shirt 4701",Reebok,Casual,249.75,281,183,18.84,Mumbai
+783,"T-Shirt 1168",Puma,Outdoor,863.88,335,255,12.61,Chennai
+784,"T-Shirt 7765",Reebok,Casual,305.65,107,199,34.30,Bangalore
+785,"T-Shirt 1184",Adidas,Sportswear,613.26,181,75,8.90,Mumbai
+786,"T-Shirt 1345",Adidas,Outdoor,959.85,446,182,18.03,Pune
+787,"T-Shirt 8296",Adidas,Formal,990.14,192,285,30.71,Delhi
+788,"T-Shirt 2229",Puma,Formal,283.10,204,216,19.08,Chennai
+789,"T-Shirt 5872",Reebok,Formal,615.66,218,183,38.00,Pune
+790,"T-Shirt 5276",Reebok,Sportswear,727.82,375,229,28.59,Hyderabad
+791,"T-Shirt 1244","Under Armour",Sportswear,461.53,495,290,43.17,Bangalore
+792,"T-Shirt 4956",Adidas,Formal,639.69,407,124,31.60,Pune
+793,"T-Shirt 6928",Reebok,Casual,393.72,396,66,37.09,Mumbai
+794,"T-Shirt 9806",Reebok,Outdoor,554.71,176,125,2.41,Pune
+795,"T-Shirt 7637","Under Armour",Sportswear,807.46,286,171,7.49,Mumbai
+796,"T-Shirt 7141",Puma,Sportswear,749.88,388,243,36.81,Delhi
+797,"T-Shirt 116",Adidas,Formal,994.08,91,278,4.86,Chennai
+798,"T-Shirt 2147","Under Armour",Sportswear,291.92,483,142,24.17,Pune
+799,"T-Shirt 5017",Puma,Sportswear,437.82,473,248,15.32,Mumbai
+800,"T-Shirt 3217",Puma,Casual,499.84,410,288,18.12,Pune
+801,"T-Shirt 5251","Under Armour",Formal,999.07,426,76,36.45,Pune
+802,"T-Shirt 1978",Adidas,Sportswear,923.21,468,287,49.57,Mumbai
+803,"T-Shirt 4281","Under Armour",Sportswear,486.04,80,215,5.49,Bangalore
+804,"T-Shirt 6611",Nike,Formal,620.62,459,0,13.01,Delhi
+805,"T-Shirt 6996",Reebok,Outdoor,939.70,386,23,4.35,Delhi
+806,"T-Shirt 7175",Nike,Outdoor,397.05,344,208,20.31,Pune
+807,"T-Shirt 5332","Under Armour",Casual,943.69,112,99,49.03,Pune
+808,"T-Shirt 6151",Adidas,Outdoor,427.42,421,103,10.27,Pune
+809,"T-Shirt 3430",Reebok,Formal,292.02,291,166,1.54,Bangalore
+810,"T-Shirt 3607",Adidas,Formal,904.15,339,223,34.45,Delhi
+811,"T-Shirt 9997",Adidas,Outdoor,913.88,41,218,20.26,Pune
+812,"T-Shirt 9651",Adidas,Formal,602.39,223,213,11.48,Mumbai
+813,"T-Shirt 3608",Reebok,Outdoor,696.02,369,246,44.89,Mumbai
+814,"T-Shirt 4298",Nike,Sportswear,361.41,379,53,30.82,Hyderabad
+815,"T-Shirt 8977","Under Armour",Formal,218.41,297,268,34.96,Chennai
+816,"T-Shirt 9401",Adidas,Formal,214.02,191,255,5.80,Mumbai
+817,"T-Shirt 7686",Reebok,Formal,580.67,353,29,18.41,Hyderabad
+818,"T-Shirt 6469",Puma,Outdoor,310.66,382,118,34.28,Delhi
+819,"T-Shirt 1616",Nike,Outdoor,417.45,331,146,22.71,Chennai
+820,"T-Shirt 6814","Under Armour",Outdoor,480.23,90,253,34.46,Pune
+821,"T-Shirt 4778",Reebok,Outdoor,507.33,152,108,44.75,Bangalore
+822,"T-Shirt 2786",Adidas,Sportswear,635.44,6,125,3.34,Mumbai
+823,"T-Shirt 1706",Reebok,Formal,446.96,314,62,7.96,Delhi
+824,"T-Shirt 3791",Adidas,Outdoor,764.43,110,293,11.81,Delhi
+825,"T-Shirt 5131","Under Armour",Formal,695.32,114,83,35.82,Chennai
+826,"T-Shirt 5622",Puma,Sportswear,533.86,194,205,13.22,Delhi
+827,"T-Shirt 5312","Under Armour",Formal,986.13,387,275,13.62,Hyderabad
+828,"T-Shirt 2159",Adidas,Formal,577.42,206,192,48.28,Pune
+829,"T-Shirt 6440",Puma,Formal,394.80,292,54,8.32,Delhi
+830,"T-Shirt 9107",Reebok,Outdoor,928.92,68,283,15.53,Chennai
+831,"T-Shirt 6820",Adidas,Sportswear,271.70,482,164,42.31,Hyderabad
+832,"T-Shirt 4029",Adidas,Sportswear,556.23,57,68,39.99,Delhi
+833,"T-Shirt 1789","Under Armour",Sportswear,325.38,95,141,39.61,Hyderabad
+834,"T-Shirt 3495",Nike,Formal,376.25,287,58,13.28,Chennai
+835,"T-Shirt 8962",Adidas,Formal,516.62,34,43,26.24,Delhi
+836,"T-Shirt 3704",Adidas,Casual,766.66,303,270,34.79,Chennai
+837,"T-Shirt 7703",Puma,Casual,400.71,72,286,17.39,Pune
+838,"T-Shirt 3289",Nike,Sportswear,627.83,159,294,47.43,Chennai
+839,"T-Shirt 1668",Puma,Formal,905.19,256,273,1.40,Bangalore
+840,"T-Shirt 9291",Puma,Casual,753.72,130,65,15.80,Pune
+841,"T-Shirt 6697",Puma,Outdoor,737.42,359,170,34.62,Chennai
+842,"T-Shirt 7027",Adidas,Sportswear,887.08,469,33,37.46,Bangalore
+843,"T-Shirt 7939",Reebok,Casual,579.76,176,98,29.61,Pune
+844,"T-Shirt 909",Puma,Casual,507.02,366,150,15.55,Mumbai
+845,"T-Shirt 3294",Puma,Casual,865.17,390,118,32.05,Mumbai
+846,"T-Shirt 1762","Under Armour",Formal,543.31,207,232,31.54,Chennai
+847,"T-Shirt 2710","Under Armour",Casual,831.95,268,90,44.94,Hyderabad
+848,"T-Shirt 2705",Puma,Sportswear,621.01,245,258,42.36,Hyderabad
+849,"T-Shirt 6972",Puma,Formal,591.97,291,129,21.09,Chennai
+850,"T-Shirt 7848",Puma,Sportswear,274.75,64,105,18.82,Chennai
+851,"T-Shirt 68",Puma,Formal,240.56,17,4,48.40,Chennai
+852,"T-Shirt 872",Nike,Outdoor,677.95,79,297,24.08,Bangalore
+853,"T-Shirt 7373",Adidas,Formal,395.25,100,77,34.63,Chennai
+854,"T-Shirt 3711",Reebok,Outdoor,786.04,105,254,30.53,Hyderabad
+855,"T-Shirt 7166",Nike,Sportswear,555.78,432,292,14.17,Bangalore
+856,"T-Shirt 6279",Reebok,Casual,950.30,277,284,4.13,Hyderabad
+857,"T-Shirt 5999",Adidas,Formal,517.14,13,278,28.85,Mumbai
+858,"T-Shirt 7432",Puma,Outdoor,479.19,481,228,45.83,Delhi
+859,"T-Shirt 7588","Under Armour",Sportswear,334.05,172,61,0.07,Bangalore
+860,"T-Shirt 9444",Puma,Outdoor,200.33,106,16,31.68,Mumbai
+861,"T-Shirt 1325",Reebok,Outdoor,313.21,136,278,41.53,Bangalore
+862,"T-Shirt 3411",Reebok,Sportswear,366.63,16,157,26.57,Mumbai
+863,"T-Shirt 8220","Under Armour",Outdoor,677.90,242,184,31.80,Delhi
+864,"T-Shirt 7460",Reebok,Casual,228.22,417,16,38.84,Chennai
+865,"T-Shirt 2633",Nike,Sportswear,659.14,420,141,42.39,Chennai
+866,"T-Shirt 5555",Adidas,Outdoor,729.96,273,219,1.60,Pune
+867,"T-Shirt 7084",Reebok,Sportswear,904.61,445,240,17.33,Delhi
+868,"T-Shirt 5819","Under Armour",Outdoor,904.79,296,93,38.93,Pune
+869,"T-Shirt 4780",Puma,Sportswear,893.82,57,289,24.42,Hyderabad
+870,"T-Shirt 2566",Reebok,Casual,558.32,403,202,47.99,Chennai
+871,"T-Shirt 9989",Reebok,Casual,766.84,259,137,37.07,Delhi
+872,"T-Shirt 4347",Nike,Formal,514.85,108,267,40.46,Bangalore
+873,"T-Shirt 4411",Nike,Sportswear,390.72,451,236,11.95,Chennai
+874,"T-Shirt 4302",Reebok,Sportswear,298.70,278,120,17.07,Hyderabad
+875,"T-Shirt 4939","Under Armour",Casual,740.85,226,68,39.11,Delhi
+876,"T-Shirt 8009",Adidas,Sportswear,948.57,75,281,11.94,Bangalore
+877,"T-Shirt 1990","Under Armour",Formal,690.43,89,14,35.51,Bangalore
+878,"T-Shirt 8913",Adidas,Formal,989.81,153,170,45.86,Pune
+879,"T-Shirt 6762",Reebok,Formal,831.15,85,143,43.93,Pune
+880,"T-Shirt 1742","Under Armour",Casual,243.46,36,57,36.82,Mumbai
+881,"T-Shirt 3485",Puma,Outdoor,799.14,382,168,26.48,Pune
+882,"T-Shirt 2032",Nike,Sportswear,233.06,468,163,45.86,Pune
+883,"T-Shirt 197",Adidas,Sportswear,905.11,28,189,49.61,Mumbai
+884,"T-Shirt 3543",Puma,Outdoor,431.55,24,107,33.03,Delhi
+885,"T-Shirt 1342",Nike,Formal,212.42,136,91,35.95,Chennai
+886,"T-Shirt 2194",Nike,Formal,415.69,132,150,35.95,Mumbai
+887,"T-Shirt 2992",Adidas,Sportswear,519.39,181,180,46.02,Chennai
+888,"T-Shirt 2474","Under Armour",Casual,668.94,343,198,12.85,Delhi
+889,"T-Shirt 7232",Reebok,Casual,986.50,316,60,6.21,Mumbai
+890,"T-Shirt 6834",Adidas,Outdoor,349.48,169,35,28.86,Hyderabad
+891,"T-Shirt 9407",Nike,Formal,277.62,226,288,22.59,Bangalore
+892,"T-Shirt 5225",Puma,Outdoor,882.56,341,252,8.14,Delhi
+893,"T-Shirt 9705","Under Armour",Outdoor,959.22,409,70,36.09,Pune
+894,"T-Shirt 3695",Nike,Formal,388.80,308,109,48.98,Chennai
+895,"T-Shirt 771","Under Armour",Formal,447.70,305,35,37.87,Bangalore
+896,"T-Shirt 9019",Adidas,Casual,991.79,493,286,41.36,Delhi
+897,"T-Shirt 8506",Puma,Formal,381.28,493,71,11.87,Bangalore
+898,"T-Shirt 6520","Under Armour",Casual,786.13,456,106,1.81,Mumbai
+899,"T-Shirt 4925",Nike,Sportswear,883.85,90,98,5.09,Hyderabad
+900,"T-Shirt 3295",Nike,Casual,610.13,270,47,8.35,Bangalore
+901,"T-Shirt 3188",Puma,Formal,411.38,332,155,30.17,Bangalore
+902,"T-Shirt 5000",Nike,Sportswear,203.70,411,25,48.48,Hyderabad
+903,"T-Shirt 351",Puma,Outdoor,573.62,262,62,23.49,Chennai
+904,"T-Shirt 2275","Under Armour",Sportswear,681.42,366,253,2.02,Hyderabad
+905,"T-Shirt 1904","Under Armour",Casual,499.28,57,131,42.54,Pune
+906,"T-Shirt 1522","Under Armour",Sportswear,488.43,51,125,39.84,Chennai
+907,"T-Shirt 2336","Under Armour",Casual,480.71,480,222,41.42,Pune
+908,"T-Shirt 1078",Reebok,Formal,687.93,139,165,46.07,Pune
+909,"T-Shirt 191",Adidas,Sportswear,738.47,79,230,18.28,Hyderabad
+910,"T-Shirt 5285",Nike,Outdoor,642.93,259,277,3.37,Hyderabad
+911,"T-Shirt 6256",Puma,Casual,281.00,338,19,14.94,Delhi
+912,"T-Shirt 6092",Nike,Outdoor,201.63,179,233,40.66,Chennai
+913,"T-Shirt 2347","Under Armour",Sportswear,831.25,265,84,40.56,Delhi
+914,"T-Shirt 6472",Puma,Outdoor,369.74,41,229,28.94,Hyderabad
+915,"T-Shirt 2698",Puma,Outdoor,961.31,3,52,42.56,Chennai
+916,"T-Shirt 1197",Adidas,Formal,906.95,290,72,23.77,Hyderabad
+917,"T-Shirt 8237",Nike,Casual,485.87,336,85,20.45,Delhi
+918,"T-Shirt 7244",Nike,Sportswear,406.10,23,135,6.30,Delhi
+919,"T-Shirt 9826",Nike,Formal,511.80,172,164,35.50,Pune
+920,"T-Shirt 3926",Adidas,Sportswear,680.17,397,50,22.85,Chennai
+921,"T-Shirt 5364",Adidas,Sportswear,505.21,338,67,4.98,Chennai
+922,"T-Shirt 8225",Reebok,Formal,792.92,256,98,5.47,Hyderabad
+923,"T-Shirt 4848",Reebok,Sportswear,938.17,468,272,36.74,Pune
+924,"T-Shirt 5417","Under Armour",Formal,852.21,20,223,30.70,Chennai
+925,"T-Shirt 3210",Nike,Formal,631.34,492,87,25.69,Chennai
+926,"T-Shirt 9202",Puma,Outdoor,785.33,39,56,35.67,Mumbai
+927,"T-Shirt 8616",Adidas,Outdoor,868.37,162,33,29.38,Hyderabad
+928,"T-Shirt 2490",Puma,Casual,921.68,91,59,22.73,Chennai
+929,"T-Shirt 45",Nike,Outdoor,971.45,421,93,1.42,Delhi
+930,"T-Shirt 9731",Adidas,Sportswear,585.18,353,24,14.72,Delhi
+931,"T-Shirt 2410",Puma,Outdoor,240.99,239,67,34.44,Chennai
+932,"T-Shirt 8020",Reebok,Sportswear,303.29,267,81,38.06,Pune
+933,"T-Shirt 6715",Adidas,Outdoor,504.09,93,233,17.06,Bangalore
+934,"T-Shirt 8242",Nike,Formal,927.02,389,47,22.88,Chennai
+935,"T-Shirt 7033",Nike,Sportswear,208.05,161,172,45.69,Pune
+936,"T-Shirt 4644",Reebok,Formal,680.97,106,73,29.92,Delhi
+937,"T-Shirt 4789",Reebok,Formal,741.74,124,60,13.74,Chennai
+938,"T-Shirt 9960",Reebok,Casual,353.51,306,142,26.97,Delhi
+939,"T-Shirt 7551","Under Armour",Casual,682.55,272,272,45.35,Chennai
+940,"T-Shirt 3377",Adidas,Casual,607.91,395,125,36.10,Bangalore
+941,"T-Shirt 6089","Under Armour",Sportswear,530.26,429,12,32.25,Mumbai
+942,"T-Shirt 5455",Puma,Formal,578.58,348,16,9.15,Chennai
+943,"T-Shirt 2233","Under Armour",Formal,531.91,147,66,11.03,Bangalore
+944,"T-Shirt 5513",Puma,Casual,325.76,163,45,38.79,Bangalore
+945,"T-Shirt 8160",Reebok,Formal,379.16,281,38,48.07,Bangalore
+946,"T-Shirt 2215","Under Armour",Formal,395.01,279,16,29.79,Chennai
+947,"T-Shirt 3030",Nike,Casual,830.61,381,130,45.08,Delhi
+948,"T-Shirt 2880","Under Armour",Casual,399.03,90,44,10.15,Hyderabad
+949,"T-Shirt 2399",Puma,Formal,350.22,375,52,31.28,Hyderabad
+950,"T-Shirt 1539","Under Armour",Casual,691.33,97,35,0.82,Chennai
+951,"T-Shirt 5794",Reebok,Outdoor,315.77,73,87,0.90,Delhi
+952,"T-Shirt 328",Puma,Casual,810.48,220,270,9.37,Delhi
+953,"T-Shirt 6159",Adidas,Sportswear,969.53,381,276,16.39,Pune
+954,"T-Shirt 3736",Adidas,Sportswear,981.63,222,84,3.93,Hyderabad
+955,"T-Shirt 5112","Under Armour",Sportswear,443.74,256,190,32.00,Delhi
+956,"T-Shirt 5679","Under Armour",Sportswear,446.43,228,104,18.98,Pune
+957,"T-Shirt 1168",Nike,Outdoor,930.98,84,27,47.75,Hyderabad
+958,"T-Shirt 6472",Reebok,Formal,457.59,255,172,17.58,Mumbai
+959,"T-Shirt 1024",Puma,Outdoor,717.13,448,160,49.22,Delhi
+960,"T-Shirt 6488",Adidas,Casual,592.62,27,237,39.77,Hyderabad
+961,"T-Shirt 6364",Adidas,Outdoor,646.70,499,91,26.54,Chennai
+962,"T-Shirt 1207",Adidas,Formal,558.73,351,46,33.53,Pune
+963,"T-Shirt 4373",Puma,Casual,856.08,140,279,40.92,Delhi
+964,"T-Shirt 449",Adidas,Casual,567.65,421,247,30.40,Hyderabad
+965,"T-Shirt 9779",Adidas,Sportswear,937.45,141,191,17.42,Chennai
+966,"T-Shirt 928","Under Armour",Formal,352.63,39,244,41.94,Chennai
+967,"T-Shirt 2366","Under Armour",Outdoor,942.92,406,80,45.64,Chennai
+968,"T-Shirt 429","Under Armour",Formal,327.54,3,161,34.05,Chennai
+969,"T-Shirt 9040",Nike,Sportswear,825.40,384,147,7.63,Delhi
+970,"T-Shirt 9936",Nike,Formal,385.19,324,162,38.40,Delhi
+971,"T-Shirt 7604",Nike,Formal,349.94,168,32,27.21,Bangalore
+972,"T-Shirt 3257",Puma,Casual,270.33,288,183,16.51,Chennai
+973,"T-Shirt 936",Nike,Outdoor,977.24,223,92,10.07,Mumbai
+974,"T-Shirt 8264","Under Armour",Outdoor,862.61,237,262,48.24,Delhi
+975,"T-Shirt 796","Under Armour",Outdoor,763.91,20,23,13.56,Mumbai
+976,"T-Shirt 8062",Reebok,Outdoor,522.89,197,225,29.06,Hyderabad
+977,"T-Shirt 5064",Puma,Casual,364.56,431,206,43.10,Delhi
+978,"T-Shirt 6194",Adidas,Sportswear,950.73,328,139,17.68,Bangalore
+979,"T-Shirt 8151","Under Armour",Casual,736.47,222,60,33.62,Chennai
+980,"T-Shirt 7931",Reebok,Sportswear,237.91,96,242,23.60,Pune
+981,"T-Shirt 2504",Puma,Formal,351.81,213,166,25.05,Pune
+982,"T-Shirt 6882","Under Armour",Formal,244.56,292,223,48.43,Hyderabad
+983,"T-Shirt 1584","Under Armour",Casual,675.87,52,219,17.59,Hyderabad
+984,"T-Shirt 7521",Nike,Sportswear,510.39,287,210,39.67,Pune
+985,"T-Shirt 9103","Under Armour",Sportswear,876.00,380,78,1.85,Bangalore
+986,"T-Shirt 8659",Nike,Sportswear,329.61,230,242,33.29,Pune
+987,"T-Shirt 5151","Under Armour",Outdoor,493.67,229,53,26.11,Mumbai
+988,"T-Shirt 8126","Under Armour",Formal,356.41,381,63,39.05,Delhi
+989,"T-Shirt 9957",Nike,Outdoor,937.15,470,279,41.93,Bangalore
+990,"T-Shirt 4812",Adidas,Formal,482.33,492,255,15.24,Pune
+991,"T-Shirt 9501","Under Armour",Casual,240.91,167,151,26.62,Mumbai
+992,"T-Shirt 1226",Nike,Formal,315.18,57,37,14.66,Mumbai
+993,"T-Shirt 5623",Puma,Sportswear,666.42,393,51,25.06,Pune
+994,"T-Shirt 4647",Adidas,Casual,647.22,424,165,11.01,Bangalore
+995,"T-Shirt 5695",Puma,Outdoor,729.07,398,297,28.25,Pune
+996,"T-Shirt 5778",Adidas,Outdoor,594.87,395,138,46.84,Delhi
+997,"T-Shirt 7007",Puma,Outdoor,696.63,230,129,39.11,Hyderabad
+998,"T-Shirt 7309","Under Armour",Outdoor,846.73,252,28,47.89,Hyderabad
+999,"T-Shirt 6634",Reebok,Outdoor,626.88,360,298,41.15,Mumbai
+1000,"T-Shirt 1596",Puma,Formal,889.24,218,175,31.47,Bangalore
