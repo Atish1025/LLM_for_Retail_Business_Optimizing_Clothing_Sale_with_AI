@@ -30,6 +30,8 @@
 
 * Python
 * Streamlit
+* LangChain
+* SQL
 * MySQL Connector
 * `ollama` (with DeepSeek-R1 model)
 * Regular expressions, subprocesses, fuzzy matching
